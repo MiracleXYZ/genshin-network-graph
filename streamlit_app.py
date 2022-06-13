@@ -1,7 +1,6 @@
 import platform
 
 import pandas as pd
-from prompt_toolkit import PromptSession
 import streamlit as st
 import streamlit.components.v1 as components
 from pyvis.network import Network
@@ -10,6 +9,17 @@ df_chars = pd.read_pickle('./data/characters.pickle')
 df_text = pd.read_pickle('./data/voice_text.pickle')
 
 st.title('Network Graph of Genshin Impact Characters')
+
+elements = df_chars['Element'].drop_duplicates().tolist()
+regions = df_chars['Region'].drop_duplicates().tolist()
+
+selected_elements = st.multiselect('Select Element(s)', elements, default=elements)
+selected_regions = st.multiselect('Select Region(s)', regions, default=regions)
+selected_characters = df_chars[
+    (df_chars['Element'].isin(selected_elements)) & (df_chars['Region'].isin(selected_regions))
+]['Name'].tolist()
+
+df_text = df_text[df_text['Source'].isin(selected_characters)]
 
 def get_node_options(char):
     colormap = {
@@ -26,30 +36,23 @@ def get_node_options(char):
     if len(entries) > 0:
         entry = entries.iloc[0]
 
-        return {
+        node_options = {
             'size': 250,
             'shape': 'circularImage',
             'image': entry['Image'],
             'group': entry['Element'] or 'Others',
             'color': colormap.get(entry['Element'], 'white'),
         }
+        
+        if char not in selected_characters:
+            node_options['opacity'] = 0.5
+        return node_options
     else:
         return {
             'size': 250,
             'shape': 'circularImage',
             'image': f'https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}'
         }
-
-elements = df_chars['Element'].drop_duplicates().tolist()
-regions = df_chars['Region'].drop_duplicates().tolist()
-
-selected_elements = st.multiselect('Select Element(s)', elements, default=elements)
-selected_regions = st.multiselect('Select Region(s)', regions, default=regions)
-selected_characters = df_chars[
-    (df_chars['Element'].isin(selected_elements)) & (df_chars['Region'].isin(selected_regions))
-]['Name'].tolist()
-
-df_text = df_text[df_text['Source'].isin(selected_characters)]
 
 if len(df_text) == 0:
     st.write('No data found. Select elements and regions to start with.')
