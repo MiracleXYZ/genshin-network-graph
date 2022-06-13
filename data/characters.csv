@@ -1,6 +1,6 @@
 ,Name,Element,Weapon,Region,Image
 0,Albedo,Geo,Sword,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Albedo_Thumb.png
-1,Aloy,Cryo,Bow,,https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Character_Aloy_Thumb.png
+1,Aloy,Cryo,Bow,Others,https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Character_Aloy_Thumb.png
 2,Amber,Pyro,Bow,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Character_Amber_Thumb.png
 3,Arataki Itto,Geo,Claymore,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/7/79/Character_Arataki_Itto_Thumb.png
 4,Barbara,Hydro,Catalyst,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/7/72/Character_Barbara_Thumb.png
@@ -36,7 +36,7 @@
 34,Sucrose,Anemo,Catalyst,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Sucrose_Thumb.png
 35,Tartaglia,Hydro,Bow,Snezhnaya,https://static.wikia.nocookie.net/gensin-impact/images/5/53/Character_Tartaglia_Thumb.png
 36,Thoma,Pyro,Polearm,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Character_Thoma_Thumb.png
-37,Traveler,None,Sword,,https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png
+37,Traveler,None,Sword,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png
 38,Venti,Anemo,Bow,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Character_Venti_Thumb.png
 39,Xiangling,Pyro,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Xiangling_Thumb.png
 40,Xiao,Anemo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Xiao_Thumb.png
@@ -48,6 +48,6 @@
 46,Yoimiya,Pyro,Bow,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/0/05/Character_Yoimiya_Thumb.png
 47,Yun Jin,Geo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Character_Yun_Jin_Thumb.png
 48,Zhongli,Geo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Zhongli_Thumb.png
-49,Dainsleif,,,Khaenri'ah,https://static.wikia.nocookie.net/gensin-impact/images/7/70/Character_Dainsleif_Thumb.png
+49,Dainsleif,Others,Others,Khaenri'ah,https://static.wikia.nocookie.net/gensin-impact/images/7/70/Character_Dainsleif_Thumb.png
 50,Kuki Shinobu,Electro,Sword,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/3/37/Character_Kuki_Shinobu_Thumb.png
-51,Shikanoin Heizou,Anemo,,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Character_Shikanoin_Heizou_Thumb.png
+51,Shikanoin Heizou,Anemo,Others,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Character_Shikanoin_Heizou_Thumb.png
