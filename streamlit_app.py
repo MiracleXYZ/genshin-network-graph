@@ -188,12 +188,14 @@ else:
     add_fullscreen(f"{path}/genshin_network.html")
     html_file = open(f"{path}/genshin_network.html", "r", encoding="utf-8")
 
+    components.html(html_file.read(), height=600)
     st.write(
         """\
+## 💡 Tips
+
 1. It may take a while to load the network graph. Please be patient.
 2. Click on the graph and press "F" to toggle fullscreen.
 3. Graph physics is on. Feel free to drag some characters and see how it goes.
 4. The initialization is random. If you want a different layout, just refresh the page or toggle an option and then toggle back.\
 """
     )
-    components.html(html_file.read(), height=600)
