@@ -4,6 +4,8 @@
 # macOS
 .DS_Store
 
+public/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
