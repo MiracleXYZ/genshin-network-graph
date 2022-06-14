@@ -1,3 +1,4 @@
+import os
 import platform
 
 import pandas as pd
@@ -117,7 +118,9 @@ else:
 
     if platform.processor():  # local
         path = "./public"
-    else:
+        if not os.path.exists(path):
+            os.mkdir(path)
+    else: # cloud
         path = "/tmp"
 
     gs_net.set_options('''\
