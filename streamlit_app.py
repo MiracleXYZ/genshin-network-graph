@@ -10,11 +10,23 @@ from pyvis.network import Network
 df_chars = pd.read_pickle("./data/characters.pickle")
 df_text = pd.read_pickle("./data/voice_text.pickle")
 
+# for traveler
+df_chars.loc[df_chars["Name"] == "Traveler", "Element"] = "Traveler"
+
 st.title("Network Graph of Genshin Impact Characters")
 
 elements = sorted(df_chars["Element"].drop_duplicates().tolist())
 regions = sorted(df_chars["Region"].drop_duplicates().tolist())
 
+filter_mode = st.selectbox(
+    "Filter Mode",
+    (
+        "Weak Mode (unselected targets are shown translucent)",
+        "Strict Mode (unselected targets are hidden)",
+    ),
+    index=0,
+    help="Try it out yourself if you're not sure!",
+)
 selected_elements = st.multiselect("Select Element(s)", elements, default=elements)
 selected_regions = st.multiselect("Select Region(s)", regions, default=regions)
 selected_characters = df_chars[
@@ -22,7 +34,13 @@ selected_characters = df_chars[
     & (df_chars["Region"].isin(selected_regions))
 ]["Name"].tolist()
 
-df_text = df_text[df_text["Source"].isin(selected_characters)]
+if filter_mode.startswith("Strict"):
+    df_text = df_text[
+        (df_text["Source"].isin(selected_characters))
+        & (df_text["Target"].isin(selected_characters))
+    ]
+else:
+    df_text = df_text[df_text["Source"].isin(selected_characters)]
 
 
 def get_node_options(char):
@@ -120,10 +138,11 @@ else:
         path = "./public"
         if not os.path.exists(path):
             os.mkdir(path)
-    else: # cloud
+    else:  # cloud
         path = "/tmp"
 
-    gs_net.set_options('''\
+    gs_net.set_options(
+        """\
 {
     "configure": {
         "enabled": false
@@ -162,11 +181,19 @@ else:
         }
     }
 }
-''')
+"""
+    )
 
     gs_net.show(f"{path}/genshin_network.html")
     add_fullscreen(f"{path}/genshin_network.html")
     html_file = open(f"{path}/genshin_network.html", "r", encoding="utf-8")
 
-    st.write('Click on the graph and press "F" to toggle fullscreen.')
-    components.html(html_file.read(), height=800)
+    st.write(
+        """\
+1. It may take a while to load the network graph. Please be patient.
+2. Click on the graph and press "F" to toggle fullscreen.
+3. Graph physics is on. Feel free to drag some characters and see how it goes.
+4. The initialization is random. If you want a different layout, just refresh the page or toggle an option and then toggle back.\
+"""
+    )
+    components.html(html_file.read(), height=600)
