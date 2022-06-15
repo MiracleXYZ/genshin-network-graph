@@ -7,6 +7,8 @@ import streamlit.components.v1 as components
 from bs4 import BeautifulSoup
 from pyvis.network import Network
 
+st.set_page_config(page_title="Character Network Graph", page_icon="🌍")
+
 df_chars = pd.read_pickle("./data/characters.pickle")
 df_text = pd.read_pickle("./data/voice_text.pickle")
 
