@@ -106,4 +106,5 @@ def remove_duplicates(df):
     df['Combination'] = df[['Source', 'Target']].apply(lambda x: '-'.join(sorted(x.tolist())), axis=1)
     df = df.drop_duplicates(subset='Combination')
     df = df.drop(columns=['Combination'])
+    df = df.reset_index(drop=True)
     return df

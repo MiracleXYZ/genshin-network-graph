@@ -4,8 +4,6 @@ import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
 from pyvis.network import Network
-from sklearn import manifold, preprocessing
-from sklearn.pipeline import make_pipeline
 from utils import (add_fullscreen, get_html_path, get_node_options,
                    get_node_options_dish, remove_duplicates)
 
@@ -27,25 +25,12 @@ df_chars = pd.read_pickle("./data/characters.pickle")
 df_dishes = pd.read_pickle("./data/spices_dishes.pickle")
 df_sim_chars = pd.read_pickle("./data/spices_sim_chars.pickle")
 df_sim_dishes = pd.read_pickle("./data/spices_sim_dishes.pickle")
-df_scores = pd.read_pickle("./data/spices_scores.pickle")
-
-df_vectors = (
-    df_scores.groupby(["name", "dish"]).mean()["score"].unstack().fillna(0).astype(int)
-)
-df_sim_chars = remove_duplicates(df_sim_chars)
-df_sim_dishes = remove_duplicates(df_sim_dishes)
+df_vectors = pd.read_pickle("./data/spices_vectors.pickle")
+embed_chars = pd.read_pickle("./data/spices_embed_chars.pickle")
+embed_dishes = pd.read_pickle("./data/spices_embed_dishes.pickle")
 
 gs_net = Network(height="600px", width="100%", directed=False)
 gs_net.barnes_hut()
-
-pipe = make_pipeline(
-    preprocessing.StandardScaler(),
-    manifold.TSNE(n_components=2, init="pca", learning_rate="auto"),
-)
-embed_chars_array = pipe.fit_transform(df_vectors)
-embed_chars = pd.DataFrame(
-    embed_chars_array, index=df_vectors.index, columns=["x", "y"]
-)
 
 for idx, row in embed_chars.iterrows():
     gs_net.add_node(
@@ -106,10 +91,6 @@ st.write('## Similarity of Dishes')
 
 gs_net = Network(height="600px", width="100%", directed=False)
 gs_net.barnes_hut()
-embed_dishes_array = pipe.fit_transform(df_vectors.T)
-embed_dishes = pd.DataFrame(
-    embed_dishes_array, index=df_vectors.columns, columns=["x", "y"]
-)
 
 for idx, row in embed_dishes.iterrows():
     gs_net.add_node(
