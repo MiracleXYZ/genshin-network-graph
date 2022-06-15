@@ -1,11 +1,10 @@
 import os
-import platform
 
 import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
-from bs4 import BeautifulSoup
 from pyvis.network import Network
+from utils import add_fullscreen, get_html_path, get_node_options
 
 st.set_page_config(page_title="Character Network Graph", page_icon="🌍")
 
@@ -15,7 +14,7 @@ df_text = pd.read_pickle("./data/voice_text.pickle")
 # for traveler
 df_chars.loc[df_chars["Name"] == "Traveler", "Element"] = "Traveler"
 
-st.title("Network Graph of Genshin Impact Characters")
+st.write("# Network Graph of Genshin Impact Characters")
 
 elements = sorted(df_chars["Element"].drop_duplicates().tolist())
 regions = sorted(df_chars["Region"].drop_duplicates().tolist())
@@ -45,76 +44,6 @@ else:
     df_text = df_text[df_text["Source"].isin(selected_characters)]
 
 
-def get_node_options(char):
-    colormap = {
-        "Pyro": "rgb(205,134,71)",
-        "Hydro": "rgb(140,190,235)",
-        "Electro": "rgb(167,147,190)",
-        "Cryo": "rgb(145,163,176)",
-        "Anemo": "rgb(147,184,166)",
-        "Geo": "rgb(223,186,81)",
-        "Dendro": "rgb(176,198,86)",
-    }
-
-    entries = df_chars[df_chars["Name"] == char]
-    if len(entries) > 0:
-        entry = entries.iloc[0]
-
-        node_options = {
-            "size": 250,
-            "shape": "circularImage",
-            "image": entry["Image"],
-            "group": entry["Element"] or "Others",
-            "color": colormap.get(entry["Element"], "white"),
-        }
-
-        if char not in selected_characters:
-            node_options["opacity"] = 0.5
-        return node_options
-    else:
-        return {
-            "size": 250,
-            "shape": "circularImage",
-            "image": f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}",
-        }
-
-
-def add_fullscreen(filepath):
-    with open(filepath) as f:
-        soup = BeautifulSoup(f, "lxml")
-
-    script_soup = BeautifulSoup(
-        """\
-<script>
-document.onkeydown = function(e){
-    e = e || window.event;
-    var key = e.which || e.keyCode;
-    if(key===70){
-        if(!document.fullscreenElement){
-            var networkEl = document.getElementById("mynetwork").requestFullscreen();
-            if(networkEl.requestFullScreen) {
-                networkEl.requestFullScreen();
-            } else if (networkEl.webkitRequestFullScreen) {
-                networkEl.webkitRequestFullScreen();
-            } else if (networkEl.mozRequestFullScreen) {
-                networkEl.mozRequestFullScreen();
-            }
-        } else {
-            document.exitFullscreen();
-        }
-    }
-};
-</script>
-""",
-        "lxml",
-    )
-
-    soup.body.append(script_soup.html.head.script)
-
-    with open(filepath, "w") as f:
-        f.write(str(soup))
-
-
 if len(df_text) == 0:
     st.write("No data found. Select elements and regions to start with.")
 else:
@@ -130,65 +59,31 @@ else:
         if src == dst:
             continue
 
-        gs_net.add_node(src, src, title=src, **get_node_options(src))
-        gs_net.add_node(dst, dst, title=dst, **get_node_options(dst))
+        gs_net.add_node(
+            src,
+            src,
+            title=src,
+            **get_node_options(src, df_chars, selected_characters=selected_characters),
+        )
+        gs_net.add_node(
+            dst,
+            dst,
+            title=dst,
+            **get_node_options(dst, df_chars, selected_characters=selected_characters),
+        )
         gs_net.add_edge(src, dst, value=w)
 
     gs_net.toggle_physics(True)
 
-    if platform.processor():  # local
-        path = "./public"
-        if not os.path.exists(path):
-            os.mkdir(path)
-    else:  # cloud
-        path = "/tmp"
+    with open("./options.json", "r") as f:
+        gs_net.set_options(f.read())
 
-    gs_net.set_options(
-        """\
-{
-    "configure": {
-        "enabled": false
-    },
-    "edges": {
-        "arrowStrikethrough": false,
-        "color": {
-            "inherit": true
-        },
-        "smooth": {
-            "enabled": true,
-            "type": "dynamic"
-        }
-    },
-    "interaction": {
-        "dragNodes": true,
-        "hideEdgesOnDrag": false,
-        "hideNodesOnDrag": false
-    },
-    "physics": {
-        "barnesHut": {
-            "avoidOverlap": 0,
-            "centralGravity": 0.3,
-            "damping": 0.09,
-            "gravitationalConstant": -80000,
-            "springConstant": 0.001,
-            "springLength": 250
-        },
-        "enabled": true,
-        "stabilization": {
-            "enabled": true,
-            "fit": true,
-            "iterations": 1000,
-            "onlyDynamicEdges": false,
-            "updateInterval": 50
-        }
-    }
-}
-"""
+    path = os.path.join(
+        get_html_path(), 'genshin_network.html'
     )
-
-    gs_net.show(f"{path}/genshin_network.html")
-    add_fullscreen(f"{path}/genshin_network.html")
-    html_file = open(f"{path}/genshin_network.html", "r", encoding="utf-8")
+    gs_net.show(path)
+    add_fullscreen(path)
+    html_file = open(path, "r", encoding="utf-8")
 
     components.html(html_file.read(), height=600)
     st.write(

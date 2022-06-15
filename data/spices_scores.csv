@@ -1,0 +1,685 @@
+,name,dish,score
+0,Albedo,Fragrant Almond Tofu,1
+1,Albedo,Fragrant Almond Tofu,1
+2,Albedo,Fragrant Lotus Flower Crisp,1
+3,Albedo,Fragrant Lotus Flower Crisp,1
+4,Albedo,Fragrant Universal Peace,1
+5,Albedo,Fragrant Universal Peace,1
+6,Albedo,Fragrant Bamboo Shoot Soup,-1
+7,Albedo,Fragrant Bamboo Shoot Soup,-1
+8,Albedo,Fragrant Black-Back Perch Stew,-1
+9,Albedo,Fragrant Black-Back Perch Stew,-1
+10,Albedo,Fragrant Golden Crab,-1
+11,Albedo,Fragrant Golden Crab,-1
+12,Albedo,Fragrant Noodles with Mountain Delicacies,-1
+13,Albedo,Fragrant Noodles with Mountain Delicacies,-1
+14,Albedo,Fragrant Stir-Fried Filet,-1
+15,Albedo,Fragrant Stir-Fried Filet,-1
+16,Amber,Fragrant Mora Meat,1
+17,Amber,Fragrant Mora Meat,1
+18,Amber,Fragrant Stir-Fried Filet,1
+19,Amber,Fragrant Stir-Fried Filet,1
+20,Amber,Fragrant Mint Salad,-1
+21,Amber,Fragrant Mint Salad,-1
+22,Arataki Itto,Fragrant Almond Tofu,1
+23,Arataki Itto,Fragrant Almond Tofu,1
+24,Arataki Itto,Fragrant Grilled Tiger Fish,1
+25,Arataki Itto,Fragrant Grilled Tiger Fish,1
+26,Arataki Itto,Fragrant Lotus Flower Crisp,1
+27,Arataki Itto,Fragrant Lotus Flower Crisp,1
+28,Arataki Itto,Fragrant Mora Meat,1
+29,Arataki Itto,Fragrant Mora Meat,1
+30,Arataki Itto,Fragrant Stir-Fried Filet,1
+31,Arataki Itto,Fragrant Stir-Fried Filet,1
+32,Arataki Itto,Fragrant Crab Roe Tofu,-1
+33,Arataki Itto,Fragrant Crab Roe Tofu,-1
+34,Arataki Itto,Fragrant Jewelry Soup,-1
+35,Arataki Itto,Fragrant Jewelry Soup,-1
+36,Barbara,Fragrant Black-Back Perch Stew,1
+37,Barbara,Fragrant Black-Back Perch Stew,1
+38,Barbara,Fragrant Mint Salad,1
+39,Barbara,Fragrant Mint Salad,1
+40,Barbara,Fragrant Qingce Stir Fry,1
+41,Barbara,Fragrant Qingce Stir Fry,1
+42,Barbara,Fragrant Stir-Fried Filet,1
+43,Barbara,Fragrant Stir-Fried Filet,1
+44,Barbara,Fragrant Jewelry Soup,-1
+45,Barbara,Fragrant Jewelry Soup,-1
+46,Beidou,Fragrant Black-Back Perch Stew,1
+47,Beidou,Fragrant Black-Back Perch Stew,1
+48,Beidou,Fragrant Mora Meat,1
+49,Beidou,Fragrant Mora Meat,1
+50,Beidou,Fragrant Qingce Stir Fry,1
+51,Beidou,Fragrant Qingce Stir Fry,1
+52,Beidou,Fragrant Stir-Fried Filet,1
+53,Beidou,Fragrant Stir-Fried Filet,1
+54,Beidou,Fragrant Almond Tofu,-1
+55,Beidou,Fragrant Almond Tofu,-1
+56,Beidou,Fragrant Bamboo Shoot Soup,-1
+57,Beidou,Fragrant Bamboo Shoot Soup,-1
+58,Beidou,Fragrant Crab Roe Tofu,-1
+59,Beidou,Fragrant Crab Roe Tofu,-1
+60,Beidou,Fragrant Jewelry Soup,-1
+61,Beidou,Fragrant Jewelry Soup,-1
+62,Beidou,Fragrant Mint Salad,-1
+63,Beidou,Fragrant Mint Salad,-1
+64,Beidou,Fragrant Triple-Layered Consommé,-1
+65,Beidou,Fragrant Triple-Layered Consommé,-1
+66,Bennett,Fragrant Bamboo Shoot Soup,1
+67,Bennett,Fragrant Bamboo Shoot Soup,1
+68,Bennett,Fragrant Golden Crab,1
+69,Bennett,Fragrant Golden Crab,1
+70,Bennett,Fragrant Mora Meat,1
+71,Bennett,Fragrant Mora Meat,1
+72,Bennett,Fragrant Noodles with Mountain Delicacies,1
+73,Bennett,Fragrant Noodles with Mountain Delicacies,1
+74,Bennett,Fragrant Stir-Fried Shrimp,1
+75,Bennett,Fragrant Stir-Fried Shrimp,1
+76,Bennett,Fragrant Black-Back Perch Stew,-1
+77,Bennett,Fragrant Black-Back Perch Stew,-1
+78,Bennett,Fragrant Mint Salad,-1
+79,Bennett,Fragrant Mint Salad,-1
+80,Bennett,Fragrant Qingce Stir Fry,-1
+81,Bennett,Fragrant Qingce Stir Fry,-1
+82,Bennett,Fragrant Stir-Fried Filet,-1
+83,Bennett,Fragrant Stir-Fried Filet,-1
+84,Chongyun,Fragrant Almond Tofu,1
+85,Chongyun,Fragrant Almond Tofu,1
+86,Chongyun,Fragrant Black-Back Perch Stew,-1
+87,Chongyun,Fragrant Black-Back Perch Stew,-1
+88,Chongyun,Fragrant Mint Salad,-1
+89,Chongyun,Fragrant Mint Salad,-1
+90,Chongyun,Fragrant Qingce Stir Fry,-1
+91,Chongyun,Fragrant Qingce Stir Fry,-1
+92,Chongyun,Fragrant Stir-Fried Filet,-1
+93,Chongyun,Fragrant Stir-Fried Filet,-1
+94,Diluc,Fragrant Golden Crab,1
+95,Diluc,Fragrant Golden Crab,1
+96,Diluc,Fragrant Lotus Flower Crisp,1
+97,Diluc,Fragrant Lotus Flower Crisp,1
+98,Diluc,Fragrant Triple-Layered Consommé,1
+99,Diluc,Fragrant Triple-Layered Consommé,1
+100,Diluc,Fragrant Grilled Tiger Fish,-1
+101,Diluc,Fragrant Grilled Tiger Fish,-1
+102,Diluc,Fragrant Mint Salad,-1
+103,Diluc,Fragrant Mint Salad,-1
+104,Diluc,Fragrant Stir-Fried Filet,-1
+105,Diluc,Fragrant Stir-Fried Filet,-1
+106,Diona,Fragrant Black-Back Perch Stew,1
+107,Diona,Fragrant Black-Back Perch Stew,1
+108,Diona,Fragrant Grilled Tiger Fish,1
+109,Diona,Fragrant Grilled Tiger Fish,1
+110,Diona,Fragrant Mint Salad,1
+111,Diona,Fragrant Mint Salad,1
+112,Diona,Fragrant Stir-Fried Fish Noodles,1
+113,Diona,Fragrant Stir-Fried Fish Noodles,1
+114,Diona,Fragrant Jewelry Soup,-1
+115,Diona,Fragrant Jewelry Soup,-1
+116,Diona,Fragrant Qingce Stir Fry,-1
+117,Diona,Fragrant Qingce Stir Fry,-1
+118,Diona,Fragrant Rice Buns,-1
+119,Diona,Fragrant Rice Buns,-1
+120,Diona,Fragrant Universal Peace,-1
+121,Diona,Fragrant Universal Peace,-1
+122,Diona,Fragrant Vegetarian Abalone,-1
+123,Diona,Fragrant Vegetarian Abalone,-1
+124,Eula,Fragrant Almond Tofu,1
+125,Eula,Fragrant Almond Tofu,1
+126,Eula,Fragrant Golden Shrimp Balls,1
+127,Eula,Fragrant Golden Shrimp Balls,1
+128,Eula,Fragrant Lotus Flower Crisp,1
+129,Eula,Fragrant Lotus Flower Crisp,1
+130,Eula,Fragrant Universal Peace,1
+131,Eula,Fragrant Universal Peace,1
+132,Eula,Fragrant Bamboo Shoot Soup,-1
+133,Eula,Fragrant Bamboo Shoot Soup,-1
+134,Eula,Fragrant Black-Back Perch Stew,-1
+135,Eula,Fragrant Black-Back Perch Stew,-1
+136,Eula,Fragrant Noodles with Mountain Delicacies,-1
+137,Eula,Fragrant Noodles with Mountain Delicacies,-1
+138,Eula,Fragrant Qingce Stir Fry,-1
+139,Eula,Fragrant Qingce Stir Fry,-1
+140,Eula,Fragrant Stir-Fried Filet,-1
+141,Eula,Fragrant Stir-Fried Filet,-1
+142,Eula,Fragrant Stir-Fried Fish Noodles,-1
+143,Eula,Fragrant Stir-Fried Fish Noodles,-1
+144,Fischl,Fragrant Almond Tofu,1
+145,Fischl,Fragrant Almond Tofu,1
+146,Fischl,Fragrant Golden Shrimp Balls,1
+147,Fischl,Fragrant Golden Shrimp Balls,1
+148,Fischl,Fragrant Universal Peace,1
+149,Fischl,Fragrant Universal Peace,1
+150,Fischl,Fragrant Triple-Layered Consommé,-1
+151,Fischl,Fragrant Triple-Layered Consommé,-1
+152,Ganyu,Fragrant Jewelry Soup,1
+153,Ganyu,Fragrant Jewelry Soup,1
+154,Ganyu,Fragrant Rice Buns,1
+155,Ganyu,Fragrant Rice Buns,1
+156,Ganyu,Fragrant Universal Peace,1
+157,Ganyu,Fragrant Universal Peace,1
+158,Ganyu,Fragrant Vegetarian Abalone,1
+159,Ganyu,Fragrant Vegetarian Abalone,1
+160,Ganyu,Fragrant Almond Tofu,-1
+161,Ganyu,Fragrant Almond Tofu,-1
+162,Ganyu,Fragrant Bamboo Shoot Soup,-1
+163,Ganyu,Fragrant Bamboo Shoot Soup,-1
+164,Ganyu,Fragrant Black-Back Perch Stew,-1
+165,Ganyu,Fragrant Black-Back Perch Stew,-1
+166,Ganyu,Fragrant Crab Roe Tofu,-1
+167,Ganyu,Fragrant Crab Roe Tofu,-1
+168,Ganyu,Fragrant Lotus Flower Crisp,-1
+169,Ganyu,Fragrant Lotus Flower Crisp,-1
+170,Ganyu,Fragrant Golden Crab,-1
+171,Ganyu,Fragrant Golden Crab,-1
+172,Ganyu,Fragrant Golden Shrimp Balls,-1
+173,Ganyu,Fragrant Golden Shrimp Balls,-1
+174,Ganyu,Fragrant Grilled Tiger Fish,-1
+175,Ganyu,Fragrant Grilled Tiger Fish,-1
+176,Ganyu,Fragrant Mora Meat,-1
+177,Ganyu,Fragrant Mora Meat,-1
+178,Ganyu,Fragrant Noodles with Mountain Delicacies,-1
+179,Ganyu,Fragrant Noodles with Mountain Delicacies,-1
+180,Ganyu,Fragrant Stir-Fried Filet,-1
+181,Ganyu,Fragrant Stir-Fried Filet,-1
+182,Ganyu,Fragrant Stir-Fried Fish Noodles,-1
+183,Ganyu,Fragrant Stir-Fried Fish Noodles,-1
+184,Ganyu,Fragrant Triple-Layered Consommé,-1
+185,Ganyu,Fragrant Triple-Layered Consommé,-1
+186,Ganyu,Fragrant Stir-Fried Shrimp,-1
+187,Ganyu,Fragrant Stir-Fried Shrimp,-1
+188,Gorou,Fragrant Almond Tofu,1
+189,Gorou,Fragrant Almond Tofu,1
+190,Gorou,Fragrant Lotus Flower Crisp,1
+191,Gorou,Fragrant Lotus Flower Crisp,1
+192,Gorou,Fragrant Universal Peace,1
+193,Gorou,Fragrant Universal Peace,1
+194,Gorou,Fragrant Black-Back Perch Stew,-1
+195,Gorou,Fragrant Black-Back Perch Stew,-1
+196,Gorou,Fragrant Mint Salad,-1
+197,Gorou,Fragrant Mint Salad,-1
+198,Gorou,Fragrant Qingce Stir Fry,-1
+199,Gorou,Fragrant Qingce Stir Fry,-1
+200,Gorou,Fragrant Stir-Fried Filet,-1
+201,Gorou,Fragrant Stir-Fried Filet,-1
+202,Hu Tao,Fragrant Black-Back Perch Stew,1
+203,Hu Tao,Fragrant Black-Back Perch Stew,1
+204,Hu Tao,Fragrant Stir-Fried Fish Noodles,1
+205,Hu Tao,Fragrant Stir-Fried Fish Noodles,1
+206,Hu Tao,Fragrant Stir-Fried Shrimp,1
+207,Hu Tao,Fragrant Stir-Fried Shrimp,1
+208,Hu Tao,Fragrant Vegetarian Abalone,1
+209,Hu Tao,Fragrant Vegetarian Abalone,1
+210,Hu Tao,Fragrant Golden Shrimp Balls,-1
+211,Hu Tao,Fragrant Golden Shrimp Balls,-1
+212,Hu Tao,Fragrant Mint Salad,-1
+213,Hu Tao,Fragrant Mint Salad,-1
+214,Hu Tao,Fragrant Triple-Layered Consommé,-1
+215,Hu Tao,Fragrant Triple-Layered Consommé,-1
+216,Hu Tao,Fragrant Universal Peace,-1
+217,Hu Tao,Fragrant Universal Peace,-1
+218,Jean,Fragrant Bamboo Shoot Soup,1
+219,Jean,Fragrant Bamboo Shoot Soup,1
+220,Jean,Fragrant Grilled Tiger Fish,1
+221,Jean,Fragrant Grilled Tiger Fish,1
+222,Jean,Fragrant Noodles with Mountain Delicacies,1
+223,Jean,Fragrant Noodles with Mountain Delicacies,1
+224,Jean,Fragrant Black-Back Perch Stew,-1
+225,Jean,Fragrant Black-Back Perch Stew,-1
+226,Kaedehara Kazuha,Fragrant Black-Back Perch Stew,1
+227,Kaedehara Kazuha,Fragrant Black-Back Perch Stew,1
+228,Kaedehara Kazuha,Fragrant Grilled Tiger Fish,1
+229,Kaedehara Kazuha,Fragrant Grilled Tiger Fish,1
+230,Kaedehara Kazuha,Fragrant Stir-Fried Fish Noodles,1
+231,Kaedehara Kazuha,Fragrant Stir-Fried Fish Noodles,1
+232,Kaedehara Kazuha,Fragrant Triple-Layered Consommé,1
+233,Kaedehara Kazuha,Fragrant Triple-Layered Consommé,1
+234,Kaedehara Kazuha,Fragrant Jewelry Soup,-1
+235,Kaedehara Kazuha,Fragrant Jewelry Soup,-1
+236,Kaedehara Kazuha,Fragrant Mint Salad,-1
+237,Kaedehara Kazuha,Fragrant Mint Salad,-1
+238,Kaedehara Kazuha,Fragrant Rice Buns,-1
+239,Kaedehara Kazuha,Fragrant Rice Buns,-1
+240,Kaeya,Fragrant Grilled Tiger Fish,1
+241,Kaeya,Fragrant Grilled Tiger Fish,1
+242,Kaeya,Fragrant Mint Salad,1
+243,Kaeya,Fragrant Mint Salad,1
+244,Kaeya,Fragrant Stir-Fried Filet,1
+245,Kaeya,Fragrant Stir-Fried Filet,1
+246,Kaeya,Fragrant Almond Tofu,-1
+247,Kaeya,Fragrant Almond Tofu,-1
+248,Kaeya,Fragrant Crab Roe Tofu,-1
+249,Kaeya,Fragrant Crab Roe Tofu,-1
+250,Kaeya,Fragrant Stir-Fried Shrimp,-1
+251,Kaeya,Fragrant Stir-Fried Shrimp,-1
+252,Kaeya,Fragrant Universal Peace,-1
+253,Kaeya,Fragrant Universal Peace,-1
+254,Kamisato Ayaka,Fragrant Bamboo Shoot Soup,1
+255,Kamisato Ayaka,Fragrant Bamboo Shoot Soup,1
+256,Kamisato Ayaka,Fragrant Golden Crab,1
+257,Kamisato Ayaka,Fragrant Golden Crab,1
+258,Kamisato Ayaka,Fragrant Stir-Fried Shrimp,1
+259,Kamisato Ayaka,Fragrant Stir-Fried Shrimp,1
+260,Kamisato Ayaka,Fragrant Triple-Layered Consommé,1
+261,Kamisato Ayaka,Fragrant Triple-Layered Consommé,1
+262,Kamisato Ayaka,Fragrant Universal Peace,1
+263,Kamisato Ayaka,Fragrant Universal Peace,1
+264,Kamisato Ayaka,Fragrant Mora Meat,-1
+265,Kamisato Ayaka,Fragrant Mora Meat,-1
+266,Kamisato Ayaka,Fragrant Noodles with Mountain Delicacies,-1
+267,Kamisato Ayaka,Fragrant Noodles with Mountain Delicacies,-1
+268,Kamisato Ayaka,Fragrant Stir-Fried Filet,-1
+269,Kamisato Ayaka,Fragrant Stir-Fried Filet,-1
+270,Kamisato Ayato,Fragrant Crab Roe Tofu,1
+271,Kamisato Ayato,Fragrant Crab Roe Tofu,1
+272,Kamisato Ayato,Fragrant Lotus Flower Crisp,1
+273,Kamisato Ayato,Fragrant Lotus Flower Crisp,1
+274,Kamisato Ayato,Fragrant Stir-Fried Fish Noodles,1
+275,Kamisato Ayato,Fragrant Stir-Fried Fish Noodles,1
+276,Kamisato Ayato,Fragrant Universal Peace,1
+277,Kamisato Ayato,Fragrant Universal Peace,1
+278,Kamisato Ayato,Fragrant Vegetarian Abalone,1
+279,Kamisato Ayato,Fragrant Vegetarian Abalone,1
+280,Kamisato Ayato,Fragrant Grilled Tiger Fish,-1
+281,Kamisato Ayato,Fragrant Grilled Tiger Fish,-1
+282,Kamisato Ayato,Fragrant Qingce Stir Fry,-1
+283,Kamisato Ayato,Fragrant Qingce Stir Fry,-1
+284,Kamisato Ayato,Fragrant Rice Buns,-1
+285,Kamisato Ayato,Fragrant Rice Buns,-1
+286,Keqing,Fragrant Crab Roe Tofu,1
+287,Keqing,Fragrant Crab Roe Tofu,1
+288,Keqing,Fragrant Golden Crab,1
+289,Keqing,Fragrant Golden Crab,1
+290,Keqing,Fragrant Golden Shrimp Balls,1
+291,Keqing,Fragrant Golden Shrimp Balls,1
+292,Keqing,Fragrant Stir-Fried Shrimp,1
+293,Keqing,Fragrant Stir-Fried Shrimp,1
+294,Keqing,Fragrant Mint Salad,-1
+295,Keqing,Fragrant Mint Salad,-1
+296,Klee,Fragrant Black-Back Perch Stew,1
+297,Klee,Fragrant Black-Back Perch Stew,1
+298,Klee,Fragrant Grilled Tiger Fish,1
+299,Klee,Fragrant Grilled Tiger Fish,1
+300,Klee,Fragrant Stir-Fried Fish Noodles,1
+301,Klee,Fragrant Stir-Fried Fish Noodles,1
+302,Klee,Fragrant Golden Crab,-1
+303,Klee,Fragrant Golden Crab,-1
+304,Kujou Sara,Fragrant Bamboo Shoot Soup,1
+305,Kujou Sara,Fragrant Bamboo Shoot Soup,1
+306,Kujou Sara,Fragrant Mora Meat,1
+307,Kujou Sara,Fragrant Mora Meat,1
+308,Kujou Sara,Fragrant Noodles with Mountain Delicacies,1
+309,Kujou Sara,Fragrant Noodles with Mountain Delicacies,1
+310,Kujou Sara,Fragrant Rice Buns,1
+311,Kujou Sara,Fragrant Rice Buns,1
+312,Kujou Sara,Fragrant Stir-Fried Fish Noodles,1
+313,Kujou Sara,Fragrant Stir-Fried Fish Noodles,1
+314,Kujou Sara,Fragrant Almond Tofu,-1
+315,Kujou Sara,Fragrant Almond Tofu,-1
+316,Kujou Sara,Fragrant Lotus Flower Crisp,-1
+317,Kujou Sara,Fragrant Lotus Flower Crisp,-1
+318,Kujou Sara,Fragrant Universal Peace,-1
+319,Kujou Sara,Fragrant Universal Peace,-1
+320,Lisa,Fragrant Jewelry Soup,1
+321,Lisa,Fragrant Jewelry Soup,1
+322,Lisa,Fragrant Stir-Fried Shrimp,1
+323,Lisa,Fragrant Stir-Fried Shrimp,1
+324,Lisa,Fragrant Vegetarian Abalone,1
+325,Lisa,Fragrant Vegetarian Abalone,1
+326,Lisa,Fragrant Mora Meat,-1
+327,Lisa,Fragrant Mora Meat,-1
+328,Lisa,Fragrant Noodles with Mountain Delicacies,-1
+329,Lisa,Fragrant Noodles with Mountain Delicacies,-1
+330,Lisa,Fragrant Rice Buns,-1
+331,Lisa,Fragrant Rice Buns,-1
+332,Lisa,Fragrant Stir-Fried Fish Noodles,-1
+333,Lisa,Fragrant Stir-Fried Fish Noodles,-1
+334,Mona,Fragrant Golden Crab,1
+335,Mona,Fragrant Golden Crab,1
+336,Mona,Fragrant Golden Shrimp Balls,1
+337,Mona,Fragrant Golden Shrimp Balls,1
+338,Mona,Fragrant Mint Salad,1
+339,Mona,Fragrant Mint Salad,1
+340,Mona,Fragrant Mora Meat,1
+341,Mona,Fragrant Mora Meat,1
+342,Mona,Fragrant Lotus Flower Crisp,-1
+343,Mona,Fragrant Lotus Flower Crisp,-1
+344,Mona,Fragrant Rice Buns,-1
+345,Mona,Fragrant Rice Buns,-1
+346,Ningguang,Fragrant Almond Tofu,1
+347,Ningguang,Fragrant Almond Tofu,1
+348,Ningguang,Fragrant Bamboo Shoot Soup,1
+349,Ningguang,Fragrant Bamboo Shoot Soup,1
+350,Ningguang,Fragrant Crab Roe Tofu,1
+351,Ningguang,Fragrant Crab Roe Tofu,1
+352,Ningguang,Fragrant Golden Shrimp Balls,1
+353,Ningguang,Fragrant Golden Shrimp Balls,1
+354,Ningguang,Fragrant Mora Meat,1
+355,Ningguang,Fragrant Mora Meat,1
+356,Ningguang,Fragrant Stir-Fried Shrimp,1
+357,Ningguang,Fragrant Stir-Fried Shrimp,1
+358,Ningguang,Fragrant Triple-Layered Consommé,1
+359,Ningguang,Fragrant Triple-Layered Consommé,1
+360,Ningguang,Fragrant Golden Crab,-1
+361,Ningguang,Fragrant Golden Crab,-1
+362,Noelle,Fragrant Almond Tofu,1
+363,Noelle,Fragrant Almond Tofu,1
+364,Noelle,Fragrant Jewelry Soup,1
+365,Noelle,Fragrant Jewelry Soup,1
+366,Noelle,Fragrant Qingce Stir Fry,1
+367,Noelle,Fragrant Qingce Stir Fry,1
+368,Noelle,Fragrant Rice Buns,1
+369,Noelle,Fragrant Rice Buns,1
+370,Noelle,Fragrant Stir-Fried Shrimp,1
+371,Noelle,Fragrant Stir-Fried Shrimp,1
+372,Noelle,Fragrant Universal Peace,1
+373,Noelle,Fragrant Universal Peace,1
+374,Noelle,Fragrant Vegetarian Abalone,1
+375,Noelle,Fragrant Vegetarian Abalone,1
+376,Noelle,Fragrant Bamboo Shoot Soup,-1
+377,Noelle,Fragrant Bamboo Shoot Soup,-1
+378,Noelle,Fragrant Golden Shrimp Balls,-1
+379,Noelle,Fragrant Golden Shrimp Balls,-1
+380,Noelle,Fragrant Mora Meat,-1
+381,Noelle,Fragrant Mora Meat,-1
+382,Noelle,Fragrant Noodles with Mountain Delicacies,-1
+383,Noelle,Fragrant Noodles with Mountain Delicacies,-1
+384,Noelle,Fragrant Stir-Fried Fish Noodles,-1
+385,Noelle,Fragrant Stir-Fried Fish Noodles,-1
+386,Qiqi,Fragrant Almond Tofu,1
+387,Qiqi,Fragrant Almond Tofu,1
+388,Qiqi,Fragrant Mint Salad,1
+389,Qiqi,Fragrant Mint Salad,1
+390,Qiqi,Fragrant Bamboo Shoot Soup,-1
+391,Qiqi,Fragrant Bamboo Shoot Soup,-1
+392,Qiqi,Fragrant Black-Back Perch Stew,-1
+393,Qiqi,Fragrant Black-Back Perch Stew,-1
+394,Qiqi,Fragrant Grilled Tiger Fish,-1
+395,Qiqi,Fragrant Grilled Tiger Fish,-1
+396,Qiqi,Fragrant Noodles with Mountain Delicacies,-1
+397,Qiqi,Fragrant Noodles with Mountain Delicacies,-1
+398,Qiqi,Fragrant Stir-Fried Filet,-1
+399,Qiqi,Fragrant Stir-Fried Filet,-1
+400,Raiden Shogun,Fragrant Almond Tofu,1
+401,Raiden Shogun,Fragrant Almond Tofu,1
+402,Raiden Shogun,Fragrant Lotus Flower Crisp,1
+403,Raiden Shogun,Fragrant Lotus Flower Crisp,1
+404,Raiden Shogun,Fragrant Universal Peace,1
+405,Raiden Shogun,Fragrant Universal Peace,1
+406,Raiden Shogun,Fragrant Grilled Tiger Fish,-1
+407,Raiden Shogun,Fragrant Grilled Tiger Fish,-1
+408,Razor,Fragrant Bamboo Shoot Soup,1
+409,Razor,Fragrant Bamboo Shoot Soup,1
+410,Razor,Fragrant Grilled Tiger Fish,1
+411,Razor,Fragrant Grilled Tiger Fish,1
+412,Razor,Fragrant Mora Meat,1
+413,Razor,Fragrant Mora Meat,1
+414,Razor,Fragrant Stir-Fried Filet,1
+415,Razor,Fragrant Stir-Fried Filet,1
+416,Razor,Fragrant Almond Tofu,-1
+417,Razor,Fragrant Almond Tofu,-1
+418,Razor,Fragrant Jewelry Soup,-1
+419,Razor,Fragrant Jewelry Soup,-1
+420,Razor,Fragrant Lotus Flower Crisp,-1
+421,Razor,Fragrant Lotus Flower Crisp,-1
+422,Razor,Fragrant Mint Salad,-1
+423,Razor,Fragrant Mint Salad,-1
+424,Razor,Fragrant Qingce Stir Fry,-1
+425,Razor,Fragrant Qingce Stir Fry,-1
+426,Razor,Fragrant Rice Buns,-1
+427,Razor,Fragrant Rice Buns,-1
+428,Razor,Fragrant Universal Peace,-1
+429,Razor,Fragrant Universal Peace,-1
+430,Razor,Fragrant Vegetarian Abalone,-1
+431,Razor,Fragrant Vegetarian Abalone,-1
+432,Rosaria,Fragrant Black-Back Perch Stew,1
+433,Rosaria,Fragrant Black-Back Perch Stew,1
+434,Rosaria,Fragrant Golden Crab,1
+435,Rosaria,Fragrant Golden Crab,1
+436,Rosaria,Fragrant Mora Meat,1
+437,Rosaria,Fragrant Mora Meat,1
+438,Rosaria,Fragrant Almond Tofu,-1
+439,Rosaria,Fragrant Almond Tofu,-1
+440,Rosaria,Fragrant Jewelry Soup,-1
+441,Rosaria,Fragrant Jewelry Soup,-1
+442,Rosaria,Fragrant Lotus Flower Crisp,-1
+443,Rosaria,Fragrant Lotus Flower Crisp,-1
+444,Rosaria,Fragrant Mint Salad,-1
+445,Rosaria,Fragrant Mint Salad,-1
+446,Rosaria,Fragrant Rice Buns,-1
+447,Rosaria,Fragrant Rice Buns,-1
+448,Rosaria,Fragrant Universal Peace,-1
+449,Rosaria,Fragrant Universal Peace,-1
+450,Rosaria,Fragrant Vegetarian Abalone,-1
+451,Rosaria,Fragrant Vegetarian Abalone,-1
+452,Sangonomiya Kokomi,Fragrant Bamboo Shoot Soup,1
+453,Sangonomiya Kokomi,Fragrant Bamboo Shoot Soup,1
+454,Sangonomiya Kokomi,Fragrant Jewelry Soup,1
+455,Sangonomiya Kokomi,Fragrant Jewelry Soup,1
+456,Sangonomiya Kokomi,Fragrant Lotus Flower Crisp,1
+457,Sangonomiya Kokomi,Fragrant Lotus Flower Crisp,1
+458,Sangonomiya Kokomi,Fragrant Mora Meat,1
+459,Sangonomiya Kokomi,Fragrant Mora Meat,1
+460,Sangonomiya Kokomi,Fragrant Rice Buns,1
+461,Sangonomiya Kokomi,Fragrant Rice Buns,1
+462,Sangonomiya Kokomi,Fragrant Universal Peace,1
+463,Sangonomiya Kokomi,Fragrant Universal Peace,1
+464,Sangonomiya Kokomi,Fragrant Black-Back Perch Stew,-1
+465,Sangonomiya Kokomi,Fragrant Black-Back Perch Stew,-1
+466,Sangonomiya Kokomi,Fragrant Grilled Tiger Fish,-1
+467,Sangonomiya Kokomi,Fragrant Grilled Tiger Fish,-1
+468,Sangonomiya Kokomi,Fragrant Stir-Fried Fish Noodles,-1
+469,Sangonomiya Kokomi,Fragrant Stir-Fried Fish Noodles,-1
+470,Sayu,Fragrant Bamboo Shoot Soup,1
+471,Sayu,Fragrant Bamboo Shoot Soup,1
+472,Sayu,Fragrant Lotus Flower Crisp,1
+473,Sayu,Fragrant Lotus Flower Crisp,1
+474,Sayu,Fragrant Mora Meat,1
+475,Sayu,Fragrant Mora Meat,1
+476,Sayu,Fragrant Rice Buns,1
+477,Sayu,Fragrant Rice Buns,1
+478,Sayu,Fragrant Universal Peace,1
+479,Sayu,Fragrant Universal Peace,1
+480,Sayu,Fragrant Jewelry Soup,-1
+481,Sayu,Fragrant Jewelry Soup,-1
+482,Sayu,Fragrant Mint Salad,-1
+483,Sayu,Fragrant Mint Salad,-1
+484,Sayu,Fragrant Qingce Stir Fry,-1
+485,Sayu,Fragrant Qingce Stir Fry,-1
+486,Sayu,Fragrant Vegetarian Abalone,-1
+487,Sayu,Fragrant Vegetarian Abalone,-1
+488,Shenhe,Fragrant Noodles with Mountain Delicacies,1
+489,Shenhe,Fragrant Noodles with Mountain Delicacies,1
+490,Shenhe,Fragrant Jewelry Soup,-1
+491,Shenhe,Fragrant Jewelry Soup,-1
+492,Shenhe,Fragrant Mint Salad,-1
+493,Shenhe,Fragrant Mint Salad,-1
+494,Shenhe,Fragrant Rice Buns,-1
+495,Shenhe,Fragrant Rice Buns,-1
+496,Sucrose,Fragrant Almond Tofu,1
+497,Sucrose,Fragrant Almond Tofu,1
+498,Sucrose,Fragrant Lotus Flower Crisp,1
+499,Sucrose,Fragrant Lotus Flower Crisp,1
+500,Sucrose,Fragrant Universal Peace,1
+501,Sucrose,Fragrant Universal Peace,1
+502,Sucrose,Fragrant Noodles with Mountain Delicacies,-1
+503,Sucrose,Fragrant Noodles with Mountain Delicacies,-1
+504,Sucrose,Fragrant Qingce Stir Fry,-1
+505,Sucrose,Fragrant Qingce Stir Fry,-1
+506,Sucrose,Fragrant Triple-Layered Consommé,-1
+507,Sucrose,Fragrant Triple-Layered Consommé,-1
+508,Sucrose,Fragrant Vegetarian Abalone,-1
+509,Sucrose,Fragrant Vegetarian Abalone,-1
+510,Tartaglia,Fragrant Bamboo Shoot Soup,1
+511,Tartaglia,Fragrant Bamboo Shoot Soup,1
+512,Tartaglia,Fragrant Black-Back Perch Stew,1
+513,Tartaglia,Fragrant Black-Back Perch Stew,1
+514,Tartaglia,Fragrant Stir-Fried Filet,1
+515,Tartaglia,Fragrant Stir-Fried Filet,1
+516,Tartaglia,Fragrant Rice Buns,-1
+517,Tartaglia,Fragrant Rice Buns,-1
+518,Tartaglia,Fragrant Vegetarian Abalone,-1
+519,Tartaglia,Fragrant Vegetarian Abalone,-1
+520,Thoma,Fragrant Bamboo Shoot Soup,1
+521,Thoma,Fragrant Bamboo Shoot Soup,1
+522,Thoma,Fragrant Black-Back Perch Stew,1
+523,Thoma,Fragrant Black-Back Perch Stew,1
+524,Thoma,Fragrant Golden Crab,1
+525,Thoma,Fragrant Golden Crab,1
+526,Thoma,Fragrant Golden Shrimp Balls,1
+527,Thoma,Fragrant Golden Shrimp Balls,1
+528,Thoma,Fragrant Stir-Fried Filet,1
+529,Thoma,Fragrant Stir-Fried Filet,1
+530,Thoma,Fragrant Stir-Fried Shrimp,1
+531,Thoma,Fragrant Stir-Fried Shrimp,1
+532,Thoma,Fragrant Universal Peace,-1
+533,Thoma,Fragrant Universal Peace,-1
+534,Thoma,Fragrant Vegetarian Abalone,-1
+535,Thoma,Fragrant Vegetarian Abalone,-1
+536,Venti,Fragrant Almond Tofu,1
+537,Venti,Fragrant Almond Tofu,1
+538,Venti,Fragrant Grilled Tiger Fish,1
+539,Venti,Fragrant Grilled Tiger Fish,1
+540,Venti,Fragrant Lotus Flower Crisp,1
+541,Venti,Fragrant Lotus Flower Crisp,1
+542,Venti,Fragrant Rice Buns,1
+543,Venti,Fragrant Rice Buns,1
+544,Venti,Fragrant Crab Roe Tofu,-1
+545,Venti,Fragrant Crab Roe Tofu,-1
+546,Venti,Fragrant Noodles with Mountain Delicacies,-1
+547,Venti,Fragrant Noodles with Mountain Delicacies,-1
+548,Venti,Fragrant Stir-Fried Fish Noodles,-1
+549,Venti,Fragrant Stir-Fried Fish Noodles,-1
+550,Venti,Fragrant Universal Peace,-1
+551,Venti,Fragrant Universal Peace,-1
+552,Xiangling,Fragrant Black-Back Perch Stew,1
+553,Xiangling,Fragrant Black-Back Perch Stew,1
+554,Xiangling,Fragrant Mint Salad,1
+555,Xiangling,Fragrant Mint Salad,1
+556,Xiangling,Fragrant Qingce Stir Fry,1
+557,Xiangling,Fragrant Qingce Stir Fry,1
+558,Xiangling,Fragrant Stir-Fried Filet,1
+559,Xiangling,Fragrant Stir-Fried Filet,1
+560,Xiangling,Fragrant Triple-Layered Consommé,1
+561,Xiangling,Fragrant Triple-Layered Consommé,1
+562,Xiangling,Fragrant Stir-Fried Fish Noodles,-1
+563,Xiangling,Fragrant Stir-Fried Fish Noodles,-1
+564,Xiao,Fragrant Almond Tofu,1
+565,Xiao,Fragrant Almond Tofu,1
+566,Xiao,Fragrant Grilled Tiger Fish,1
+567,Xiao,Fragrant Grilled Tiger Fish,1
+568,Xiao,Fragrant Golden Crab,-1
+569,Xiao,Fragrant Golden Crab,-1
+570,Xiao,Fragrant Mora Meat,-1
+571,Xiao,Fragrant Mora Meat,-1
+572,Xiao,Fragrant Stir-Fried Filet,-1
+573,Xiao,Fragrant Stir-Fried Filet,-1
+574,Xingqiu,Fragrant Almond Tofu,1
+575,Xingqiu,Fragrant Almond Tofu,1
+576,Xingqiu,Fragrant Crab Roe Tofu,1
+577,Xingqiu,Fragrant Crab Roe Tofu,1
+578,Xingqiu,Fragrant Golden Shrimp Balls,1
+579,Xingqiu,Fragrant Golden Shrimp Balls,1
+580,Xingqiu,Fragrant Lotus Flower Crisp,1
+581,Xingqiu,Fragrant Lotus Flower Crisp,1
+582,Xingqiu,Fragrant Stir-Fried Shrimp,1
+583,Xingqiu,Fragrant Stir-Fried Shrimp,1
+584,Xingqiu,Fragrant Triple-Layered Consommé,1
+585,Xingqiu,Fragrant Triple-Layered Consommé,1
+586,Xingqiu,Fragrant Mora Meat,-1
+587,Xingqiu,Fragrant Mora Meat,-1
+588,Xingqiu,Fragrant Universal Peace,-1
+589,Xingqiu,Fragrant Universal Peace,-1
+590,Xinyan,Fragrant Black-Back Perch Stew,1
+591,Xinyan,Fragrant Black-Back Perch Stew,1
+592,Xinyan,Fragrant Grilled Tiger Fish,1
+593,Xinyan,Fragrant Grilled Tiger Fish,1
+594,Xinyan,Fragrant Mint Salad,1
+595,Xinyan,Fragrant Mint Salad,1
+596,Xinyan,Fragrant Mora Meat,1
+597,Xinyan,Fragrant Mora Meat,1
+598,Xinyan,Fragrant Noodles with Mountain Delicacies,1
+599,Xinyan,Fragrant Noodles with Mountain Delicacies,1
+600,Xinyan,Fragrant Qingce Stir Fry,1
+601,Xinyan,Fragrant Qingce Stir Fry,1
+602,Xinyan,Fragrant Stir-Fried Filet,1
+603,Xinyan,Fragrant Stir-Fried Filet,1
+604,Xinyan,Fragrant Almond Tofu,-1
+605,Xinyan,Fragrant Almond Tofu,-1
+606,Xinyan,Fragrant Jewelry Soup,-1
+607,Xinyan,Fragrant Jewelry Soup,-1
+608,Xinyan,Fragrant Lotus Flower Crisp,-1
+609,Xinyan,Fragrant Lotus Flower Crisp,-1
+610,Xinyan,Fragrant Rice Buns,-1
+611,Xinyan,Fragrant Rice Buns,-1
+612,Xinyan,Fragrant Stir-Fried Shrimp,-1
+613,Xinyan,Fragrant Stir-Fried Shrimp,-1
+614,Xinyan,Fragrant Universal Peace,-1
+615,Xinyan,Fragrant Universal Peace,-1
+616,Yae Miko,Fragrant Crab Roe Tofu,1
+617,Yae Miko,Fragrant Crab Roe Tofu,1
+618,Yae Miko,Fragrant Jewelry Soup,1
+619,Yae Miko,Fragrant Jewelry Soup,1
+620,Yae Miko,Fragrant Noodles with Mountain Delicacies,1
+621,Yae Miko,Fragrant Noodles with Mountain Delicacies,1
+622,Yae Miko,Fragrant Bamboo Shoot Soup,-1
+623,Yae Miko,Fragrant Bamboo Shoot Soup,-1
+624,Yae Miko,Fragrant Mint Salad,-1
+625,Yae Miko,Fragrant Mint Salad,-1
+626,Yae Miko,Fragrant Vegetarian Abalone,-1
+627,Yae Miko,Fragrant Vegetarian Abalone,-1
+628,Yanfei,Fragrant Crab Roe Tofu,1
+629,Yanfei,Fragrant Crab Roe Tofu,1
+630,Yanfei,Fragrant Jewelry Soup,1
+631,Yanfei,Fragrant Jewelry Soup,1
+632,Yanfei,Fragrant Almond Tofu,-1
+633,Yanfei,Fragrant Almond Tofu,-1
+634,Yanfei,Fragrant Mint Salad,-1
+635,Yanfei,Fragrant Mint Salad,-1
+636,Yelan,Fragrant Black-Back Perch Stew,1
+637,Yelan,Fragrant Black-Back Perch Stew,1
+638,Yelan,Fragrant Mint Salad,1
+639,Yelan,Fragrant Mint Salad,1
+640,Yelan,Fragrant Qingce Stir Fry,1
+641,Yelan,Fragrant Qingce Stir Fry,1
+642,Yelan,Fragrant Stir-Fried Filet,1
+643,Yelan,Fragrant Stir-Fried Filet,1
+644,Yelan,Fragrant Almond Tofu,-1
+645,Yelan,Fragrant Almond Tofu,-1
+646,Yelan,Fragrant Lotus Flower Crisp,-1
+647,Yelan,Fragrant Lotus Flower Crisp,-1
+648,Yelan,Fragrant Universal Peace,-1
+649,Yelan,Fragrant Universal Peace,-1
+650,Yoimiya,Fragrant Lotus Flower Crisp,1
+651,Yoimiya,Fragrant Lotus Flower Crisp,1
+652,Yoimiya,Fragrant Universal Peace,1
+653,Yoimiya,Fragrant Universal Peace,1
+654,Yoimiya,Fragrant Black-Back Perch Stew,-1
+655,Yoimiya,Fragrant Black-Back Perch Stew,-1
+656,Yun Jin,Fragrant Bamboo Shoot Soup,1
+657,Yun Jin,Fragrant Bamboo Shoot Soup,1
+658,Yun Jin,Fragrant Black-Back Perch Stew,1
+659,Yun Jin,Fragrant Black-Back Perch Stew,1
+660,Yun Jin,Fragrant Golden Crab,1
+661,Yun Jin,Fragrant Golden Crab,1
+662,Yun Jin,Fragrant Grilled Tiger Fish,1
+663,Yun Jin,Fragrant Grilled Tiger Fish,1
+664,Yun Jin,Fragrant Mora Meat,1
+665,Yun Jin,Fragrant Mora Meat,1
+666,Yun Jin,Fragrant Stir-Fried Filet,1
+667,Yun Jin,Fragrant Stir-Fried Filet,1
+668,Yun Jin,Fragrant Stir-Fried Shrimp,-1
+669,Yun Jin,Fragrant Stir-Fried Shrimp,-1
+670,Zhongli,Fragrant Bamboo Shoot Soup,1
+671,Zhongli,Fragrant Bamboo Shoot Soup,1
+672,Zhongli,Fragrant Rice Buns,1
+673,Zhongli,Fragrant Rice Buns,1
+674,Zhongli,Fragrant Triple-Layered Consommé,1
+675,Zhongli,Fragrant Triple-Layered Consommé,1
+676,Zhongli,Fragrant Golden Crab,-1
+677,Zhongli,Fragrant Golden Crab,-1
+678,Zhongli,Fragrant Golden Shrimp Balls,-1
+679,Zhongli,Fragrant Golden Shrimp Balls,-1
+680,Zhongli,Fragrant Grilled Tiger Fish,-1
+681,Zhongli,Fragrant Grilled Tiger Fish,-1
+682,Zhongli,Fragrant Stir-Fried Shrimp,-1
+683,Zhongli,Fragrant Stir-Fried Shrimp,-1

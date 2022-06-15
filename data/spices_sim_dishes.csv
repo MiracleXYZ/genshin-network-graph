@@ -1,0 +1,371 @@
+,Source,Target,Similarity
+0,Fragrant Almond Tofu,Fragrant Almond Tofu,0.9999999999999999
+1,Fragrant Almond Tofu,Fragrant Bamboo Shoot Soup,-0.14350946197048195
+2,Fragrant Almond Tofu,Fragrant Black-Back Perch Stew,-0.34782608695652184
+3,Fragrant Almond Tofu,Fragrant Crab Roe Tofu,0.12573892269238632
+4,Fragrant Almond Tofu,Fragrant Golden Crab,-0.16718346377260587
+5,Fragrant Almond Tofu,Fragrant Golden Shrimp Balls,0.2514778453847726
+6,Fragrant Almond Tofu,Fragrant Grilled Tiger Fish,-0.04914731871829904
+7,Fragrant Almond Tofu,Fragrant Jewelry Soup,0.1042572070285374
+8,Fragrant Almond Tofu,Fragrant Lotus Flower Crisp,0.6527533657682196
+9,Fragrant Almond Tofu,Fragrant Mora Meat,-0.23918243661746993
+10,Fragrant Almond Tofu,Fragrant Noodles with Mountain Delicacies,-0.3768673314407158
+11,Fragrant Almond Tofu,Fragrant Qingce Stir Fry,-0.26919095102908275
+12,Fragrant Almond Tofu,Fragrant Rice Buns,0.1517165212272521
+13,Fragrant Almond Tofu,Fragrant Stir-Fried Filet,-0.40009880202694836
+14,Fragrant Almond Tofu,Fragrant Stir-Fried Fish Noodles,-0.17349447958987207
+15,Fragrant Almond Tofu,Fragrant Stir-Fried Shrimp,0.33436692754521175
+16,Fragrant Almond Tofu,Fragrant Triple-Layered Consommé,0.12038585308576923
+17,Fragrant Almond Tofu,Fragrant Universal Peace,0.42562826537937426
+18,Fragrant Almond Tofu,Fragrant Vegetarian Abalone,0.05783149319662403
+19,Fragrant Bamboo Shoot Soup,Fragrant Almond Tofu,-0.14350946197048195
+20,Fragrant Bamboo Shoot Soup,Fragrant Bamboo Shoot Soup,0.9999999999999993
+21,Fragrant Bamboo Shoot Soup,Fragrant Black-Back Perch Stew,0.14350946197048195
+22,Fragrant Bamboo Shoot Soup,Fragrant Crab Roe Tofu,0.13834289277321493
+23,Fragrant Bamboo Shoot Soup,Fragrant Golden Crab,0.24525573579398632
+24,Fragrant Bamboo Shoot Soup,Fragrant Golden Shrimp Balls,0.1383428927732149
+25,Fragrant Bamboo Shoot Soup,Fragrant Grilled Tiger Fish,0.16222142113076254
+26,Fragrant Bamboo Shoot Soup,Fragrant Jewelry Soup,-0.1720618004029213
+27,Fragrant Bamboo Shoot Soup,Fragrant Lotus Flower Crisp,-0.0512989176042577
+28,Fragrant Bamboo Shoot Soup,Fragrant Mint Salad,-0.09567297464698797
+29,Fragrant Bamboo Shoot Soup,Fragrant Mora Meat,0.36842105263157887
+30,Fragrant Bamboo Shoot Soup,Fragrant Noodles with Mountain Delicacies,0.3554093266554553
+31,Fragrant Bamboo Shoot Soup,Fragrant Qingce Stir Fry,-0.23693955110363688
+32,Fragrant Bamboo Shoot Soup,Fragrant Stir-Fried Filet,0.2445579940222592
+33,Fragrant Bamboo Shoot Soup,Fragrant Stir-Fried Fish Noodles,0.1908854288927333
+34,Fragrant Bamboo Shoot Soup,Fragrant Stir-Fried Shrimp,0.12262786789699318
+35,Fragrant Bamboo Shoot Soup,Fragrant Triple-Layered Consommé,0.33113308926626095
+36,Fragrant Bamboo Shoot Soup,Fragrant Universal Peace,-0.1873171623163388
+37,Fragrant Bamboo Shoot Soup,Fragrant Vegetarian Abalone,-0.31814238148788887
+38,Fragrant Black-Back Perch Stew,Fragrant Almond Tofu,-0.34782608695652184
+39,Fragrant Black-Back Perch Stew,Fragrant Bamboo Shoot Soup,0.14350946197048195
+40,Fragrant Black-Back Perch Stew,Fragrant Black-Back Perch Stew,0.9999999999999999
+41,Fragrant Black-Back Perch Stew,Fragrant Golden Crab,0.16718346377260587
+42,Fragrant Black-Back Perch Stew,Fragrant Grilled Tiger Fish,0.34403123102809335
+43,Fragrant Black-Back Perch Stew,Fragrant Jewelry Soup,-0.4170288281141495
+44,Fragrant Black-Back Perch Stew,Fragrant Lotus Flower Crisp,-0.32637668288410987
+45,Fragrant Black-Back Perch Stew,Fragrant Mint Salad,0.13043478260869568
+46,Fragrant Black-Back Perch Stew,Fragrant Mora Meat,0.14350946197048195
+47,Fragrant Black-Back Perch Stew,Fragrant Noodles with Mountain Delicacies,0.16151457061744964
+48,Fragrant Black-Back Perch Stew,Fragrant Qingce Stir Fry,0.43070552164653236
+49,Fragrant Black-Back Perch Stew,Fragrant Rice Buns,-0.35400521619692155
+50,Fragrant Black-Back Perch Stew,Fragrant Stir-Fried Filet,0.6668313367115807
+51,Fragrant Black-Back Perch Stew,Fragrant Stir-Fried Fish Noodles,0.34698895917974415
+52,Fragrant Black-Back Perch Stew,Fragrant Triple-Layered Consommé,0.060192926542884606
+53,Fragrant Black-Back Perch Stew,Fragrant Universal Peace,-0.5107539184552491
+54,Fragrant Black-Back Perch Stew,Fragrant Vegetarian Abalone,-0.2313259727864961
+55,Fragrant Crab Roe Tofu,Fragrant Almond Tofu,0.12573892269238632
+56,Fragrant Crab Roe Tofu,Fragrant Bamboo Shoot Soup,0.13834289277321493
+57,Fragrant Crab Roe Tofu,Fragrant Crab Roe Tofu,1.0000000000000002
+58,Fragrant Crab Roe Tofu,Fragrant Golden Crab,0.08058229640253803
+59,Fragrant Crab Roe Tofu,Fragrant Golden Shrimp Balls,0.3636363636363637
+60,Fragrant Crab Roe Tofu,Fragrant Grilled Tiger Fish,-0.21320071635561047
+61,Fragrant Crab Roe Tofu,Fragrant Jewelry Soup,0.22613350843332272
+62,Fragrant Crab Roe Tofu,Fragrant Lotus Flower Crisp,0.0674199862463242
+63,Fragrant Crab Roe Tofu,Fragrant Mint Salad,-0.18860838403857946
+64,Fragrant Crab Roe Tofu,Fragrant Mora Meat,-0.06917144638660747
+65,Fragrant Crab Roe Tofu,Fragrant Noodles with Mountain Delicacies,0.23354968324845687
+66,Fragrant Crab Roe Tofu,Fragrant Qingce Stir Fry,-0.1556997888323046
+67,Fragrant Crab Roe Tofu,Fragrant Rice Buns,-0.2193817272381392
+68,Fragrant Crab Roe Tofu,Fragrant Stir-Fried Filet,-0.12856486930664499
+69,Fragrant Crab Roe Tofu,Fragrant Stir-Fried Fish Noodles,0.25087260300212727
+70,Fragrant Crab Roe Tofu,Fragrant Stir-Fried Shrimp,0.40291148201269017
+71,Fragrant Crab Roe Tofu,Fragrant Triple-Layered Consommé,0.34815531191139576
+72,Fragrant Crab Roe Tofu,Fragrant Universal Peace,0.061545745489666376
+73,Fragrant Crab Roe Tofu,Fragrant Vegetarian Abalone,-0.08362420100070908
+74,Fragrant Golden Crab,Fragrant Almond Tofu,-0.16718346377260587
+75,Fragrant Golden Crab,Fragrant Bamboo Shoot Soup,0.24525573579398632
+76,Fragrant Golden Crab,Fragrant Black-Back Perch Stew,0.16718346377260587
+77,Fragrant Golden Crab,Fragrant Crab Roe Tofu,0.08058229640253803
+78,Fragrant Golden Crab,Fragrant Golden Crab,0.9999999999999999
+79,Fragrant Golden Crab,Fragrant Golden Shrimp Balls,0.3223291856101521
+80,Fragrant Golden Crab,Fragrant Jewelry Soup,-0.1336306209562122
+81,Fragrant Golden Crab,Fragrant Lotus Flower Crisp,-0.05976143046671968
+82,Fragrant Golden Crab,Fragrant Mint Salad,-0.16718346377260587
+83,Fragrant Golden Crab,Fragrant Mora Meat,0.24525573579398632
+84,Fragrant Golden Crab,Fragrant Noodles with Mountain Delicacies,0.13801311186847084
+85,Fragrant Golden Crab,Fragrant Qingce Stir Fry,-0.06900655593423542
+86,Fragrant Golden Crab,Fragrant Rice Buns,-0.25928148942086576
+87,Fragrant Golden Crab,Fragrant Stir-Fried Filet,0.11396057645963795
+88,Fragrant Golden Crab,Fragrant Stir-Fried Shrimp,0.28571428571428575
+89,Fragrant Golden Crab,Fragrant Triple-Layered Consommé,0.07715167498104597
+90,Fragrant Golden Crab,Fragrant Universal Peace,-0.16366341767699433
+91,Fragrant Golden Crab,Fragrant Vegetarian Abalone,-0.22237479499833038
+92,Fragrant Golden Shrimp Balls,Fragrant Almond Tofu,0.2514778453847726
+93,Fragrant Golden Shrimp Balls,Fragrant Bamboo Shoot Soup,0.1383428927732149
+94,Fragrant Golden Shrimp Balls,Fragrant Crab Roe Tofu,0.3636363636363637
+95,Fragrant Golden Shrimp Balls,Fragrant Golden Crab,0.3223291856101521
+96,Fragrant Golden Shrimp Balls,Fragrant Golden Shrimp Balls,1.0000000000000002
+97,Fragrant Golden Shrimp Balls,Fragrant Grilled Tiger Fish,0.1421338109037403
+98,Fragrant Golden Shrimp Balls,Fragrant Jewelry Soup,-0.15075567228888181
+99,Fragrant Golden Shrimp Balls,Fragrant Lotus Flower Crisp,0.13483997249264842
+100,Fragrant Golden Shrimp Balls,Fragrant Mint Salad,0.06286946134619315
+101,Fragrant Golden Shrimp Balls,Fragrant Mora Meat,0.2075143391598224
+102,Fragrant Golden Shrimp Balls,Fragrant Noodles with Mountain Delicacies,0.07784989441615228
+103,Fragrant Golden Shrimp Balls,Fragrant Qingce Stir Fry,-0.1556997888323046
+104,Fragrant Golden Shrimp Balls,Fragrant Rice Buns,-0.29250896965085227
+105,Fragrant Golden Shrimp Balls,Fragrant Stir-Fried Filet,0.0642824346533225
+106,Fragrant Golden Shrimp Balls,Fragrant Stir-Fried Shrimp,0.3223291856101521
+107,Fragrant Golden Shrimp Balls,Fragrant Triple-Layered Consommé,0.17407765595569788
+108,Fragrant Golden Shrimp Balls,Fragrant Universal Peace,-0.061545745489666376
+109,Fragrant Golden Shrimp Balls,Fragrant Vegetarian Abalone,-0.3344968040028364
+110,Fragrant Grilled Tiger Fish,Fragrant Almond Tofu,-0.04914731871829904
+111,Fragrant Grilled Tiger Fish,Fragrant Bamboo Shoot Soup,0.16222142113076254
+112,Fragrant Grilled Tiger Fish,Fragrant Black-Back Perch Stew,0.34403123102809335
+113,Fragrant Grilled Tiger Fish,Fragrant Crab Roe Tofu,-0.21320071635561047
+114,Fragrant Grilled Tiger Fish,Fragrant Golden Shrimp Balls,0.1421338109037403
+115,Fragrant Grilled Tiger Fish,Fragrant Grilled Tiger Fish,1.0000000000000002
+116,Fragrant Grilled Tiger Fish,Fragrant Jewelry Soup,-0.41247895569215276
+117,Fragrant Grilled Tiger Fish,Fragrant Lotus Flower Crisp,-0.15811388300841897
+118,Fragrant Grilled Tiger Fish,Fragrant Mint Salad,0.049147318718299055
+119,Fragrant Grilled Tiger Fish,Fragrant Mora Meat,0.16222142113076254
+120,Fragrant Grilled Tiger Fish,Fragrant Noodles with Mountain Delicacies,0.18257418583505536
+121,Fragrant Grilled Tiger Fish,Fragrant Rice Buns,-0.2858309752375148
+122,Fragrant Grilled Tiger Fish,Fragrant Stir-Fried Filet,0.35176323534072423
+123,Fragrant Grilled Tiger Fish,Fragrant Stir-Fried Fish Noodles,0.19611613513818404
+124,Fragrant Grilled Tiger Fish,Fragrant Stir-Fried Shrimp,-0.06299407883487124
+125,Fragrant Grilled Tiger Fish,Fragrant Universal Peace,-0.4330127018922194
+126,Fragrant Grilled Tiger Fish,Fragrant Vegetarian Abalone,-0.2614881801842454
+127,Fragrant Jewelry Soup,Fragrant Almond Tofu,0.1042572070285374
+128,Fragrant Jewelry Soup,Fragrant Bamboo Shoot Soup,-0.1720618004029213
+129,Fragrant Jewelry Soup,Fragrant Black-Back Perch Stew,-0.4170288281141495
+130,Fragrant Jewelry Soup,Fragrant Crab Roe Tofu,0.22613350843332272
+131,Fragrant Jewelry Soup,Fragrant Golden Crab,-0.1336306209562122
+132,Fragrant Jewelry Soup,Fragrant Golden Shrimp Balls,-0.15075567228888181
+133,Fragrant Jewelry Soup,Fragrant Grilled Tiger Fish,-0.41247895569215276
+134,Fragrant Jewelry Soup,Fragrant Jewelry Soup,1.0
+135,Fragrant Jewelry Soup,Fragrant Lotus Flower Crisp,0.05590169943749474
+136,Fragrant Jewelry Soup,Fragrant Mint Salad,0.05212860351426871
+137,Fragrant Jewelry Soup,Fragrant Mora Meat,-0.45883146774112354
+138,Fragrant Jewelry Soup,Fragrant Noodles with Mountain Delicacies,-0.2581988897471611
+139,Fragrant Jewelry Soup,Fragrant Qingce Stir Fry,0.06454972243679027
+140,Fragrant Jewelry Soup,Fragrant Rice Buns,0.4244373438135828
+141,Fragrant Jewelry Soup,Fragrant Stir-Fried Filet,-0.3198010745334156
+142,Fragrant Jewelry Soup,Fragrant Stir-Fried Fish Noodles,-0.4160251471689219
+143,Fragrant Jewelry Soup,Fragrant Stir-Fried Shrimp,0.1336306209562122
+144,Fragrant Jewelry Soup,Fragrant Triple-Layered Consommé,-0.07216878364870323
+145,Fragrant Jewelry Soup,Fragrant Universal Peace,0.3061862178478973
+146,Fragrant Jewelry Soup,Fragrant Vegetarian Abalone,0.4160251471689219
+147,Fragrant Lotus Flower Crisp,Fragrant Almond Tofu,0.6527533657682196
+148,Fragrant Lotus Flower Crisp,Fragrant Bamboo Shoot Soup,-0.0512989176042577
+149,Fragrant Lotus Flower Crisp,Fragrant Black-Back Perch Stew,-0.32637668288410987
+150,Fragrant Lotus Flower Crisp,Fragrant Crab Roe Tofu,0.0674199862463242
+151,Fragrant Lotus Flower Crisp,Fragrant Golden Crab,-0.05976143046671968
+152,Fragrant Lotus Flower Crisp,Fragrant Golden Shrimp Balls,0.13483997249264842
+153,Fragrant Lotus Flower Crisp,Fragrant Grilled Tiger Fish,-0.15811388300841897
+154,Fragrant Lotus Flower Crisp,Fragrant Jewelry Soup,0.05590169943749474
+155,Fragrant Lotus Flower Crisp,Fragrant Lotus Flower Crisp,1.0000000000000002
+156,Fragrant Lotus Flower Crisp,Fragrant Mint Salad,-0.18650096164806276
+157,Fragrant Lotus Flower Crisp,Fragrant Mora Meat,-0.1025978352085154
+158,Fragrant Lotus Flower Crisp,Fragrant Noodles with Mountain Delicacies,-0.28867513459481287
+159,Fragrant Lotus Flower Crisp,Fragrant Qingce Stir Fry,-0.34641016151377546
+160,Fragrant Lotus Flower Crisp,Fragrant Rice Buns,0.21693045781865616
+161,Fragrant Lotus Flower Crisp,Fragrant Stir-Fried Filet,-0.23836564731139806
+162,Fragrant Lotus Flower Crisp,Fragrant Stir-Fried Fish Noodles,-0.12403473458920845
+163,Fragrant Lotus Flower Crisp,Fragrant Stir-Fried Shrimp,0.17928429140015906
+164,Fragrant Lotus Flower Crisp,Fragrant Triple-Layered Consommé,0.12909944487358058
+165,Fragrant Lotus Flower Crisp,Fragrant Universal Peace,0.5020790110464023
+166,Fragrant Mint Salad,Fragrant Bamboo Shoot Soup,-0.09567297464698797
+167,Fragrant Mint Salad,Fragrant Black-Back Perch Stew,0.13043478260869568
+168,Fragrant Mint Salad,Fragrant Crab Roe Tofu,-0.18860838403857946
+169,Fragrant Mint Salad,Fragrant Golden Crab,-0.16718346377260587
+170,Fragrant Mint Salad,Fragrant Golden Shrimp Balls,0.06286946134619315
+171,Fragrant Mint Salad,Fragrant Grilled Tiger Fish,0.049147318718299055
+172,Fragrant Mint Salad,Fragrant Jewelry Soup,0.05212860351426871
+173,Fragrant Mint Salad,Fragrant Lotus Flower Crisp,-0.18650096164806276
+174,Fragrant Mint Salad,Fragrant Mint Salad,0.9999999999999999
+175,Fragrant Mint Salad,Fragrant Mora Meat,-0.19134594929397594
+176,Fragrant Mint Salad,Fragrant Noodles with Mountain Delicacies,-0.16151457061744964
+177,Fragrant Mint Salad,Fragrant Qingce Stir Fry,0.3768673314407158
+178,Fragrant Mint Salad,Fragrant Stir-Fried Filet,0.22227711223719349
+179,Fragrant Mint Salad,Fragrant Stir-Fried Fish Noodles,-0.11566298639324805
+180,Fragrant Mint Salad,Fragrant Stir-Fried Shrimp,-0.27863910628767646
+181,Fragrant Mint Salad,Fragrant Triple-Layered Consommé,0.06019292654288461
+182,Fragrant Mint Salad,Fragrant Universal Peace,-0.1276884796138123
+183,Fragrant Mint Salad,Fragrant Vegetarian Abalone,0.11566298639324805
+184,Fragrant Mora Meat,Fragrant Almond Tofu,-0.23918243661746993
+185,Fragrant Mora Meat,Fragrant Bamboo Shoot Soup,0.36842105263157887
+186,Fragrant Mora Meat,Fragrant Black-Back Perch Stew,0.14350946197048195
+187,Fragrant Mora Meat,Fragrant Crab Roe Tofu,-0.06917144638660747
+188,Fragrant Mora Meat,Fragrant Golden Crab,0.24525573579398632
+189,Fragrant Mora Meat,Fragrant Golden Shrimp Balls,0.2075143391598224
+190,Fragrant Mora Meat,Fragrant Grilled Tiger Fish,0.16222142113076254
+191,Fragrant Mora Meat,Fragrant Jewelry Soup,-0.45883146774112354
+192,Fragrant Mora Meat,Fragrant Lotus Flower Crisp,-0.1025978352085154
+193,Fragrant Mora Meat,Fragrant Mint Salad,-0.19134594929397594
+194,Fragrant Mora Meat,Fragrant Mora Meat,0.9999999999999993
+195,Fragrant Mora Meat,Fragrant Noodles with Mountain Delicacies,0.41464421443136457
+196,Fragrant Mora Meat,Fragrant Qingce Stir Fry,-0.11846977555181844
+197,Fragrant Mora Meat,Fragrant Rice Buns,-0.11128297681493143
+198,Fragrant Mora Meat,Fragrant Stir-Fried Filet,0.3912927904356147
+199,Fragrant Mora Meat,Fragrant Stir-Fried Fish Noodles,0.1908854288927333
+200,Fragrant Mora Meat,Fragrant Stir-Fried Shrimp,-0.18394180184548972
+201,Fragrant Mora Meat,Fragrant Triple-Layered Consommé,-0.06622661785325219
+202,Fragrant Mora Meat,Fragrant Universal Peace,-0.18731716231633883
+203,Fragrant Mora Meat,Fragrant Vegetarian Abalone,-0.38177085778546666
+204,Fragrant Noodles with Mountain Delicacies,Fragrant Almond Tofu,-0.3768673314407158
+205,Fragrant Noodles with Mountain Delicacies,Fragrant Bamboo Shoot Soup,0.3554093266554553
+206,Fragrant Noodles with Mountain Delicacies,Fragrant Black-Back Perch Stew,0.16151457061744964
+207,Fragrant Noodles with Mountain Delicacies,Fragrant Crab Roe Tofu,0.23354968324845687
+208,Fragrant Noodles with Mountain Delicacies,Fragrant Golden Crab,0.13801311186847084
+209,Fragrant Noodles with Mountain Delicacies,Fragrant Golden Shrimp Balls,0.07784989441615228
+210,Fragrant Noodles with Mountain Delicacies,Fragrant Grilled Tiger Fish,0.18257418583505536
+211,Fragrant Noodles with Mountain Delicacies,Fragrant Jewelry Soup,-0.2581988897471611
+212,Fragrant Noodles with Mountain Delicacies,Fragrant Lotus Flower Crisp,-0.28867513459481287
+213,Fragrant Noodles with Mountain Delicacies,Fragrant Mint Salad,-0.16151457061744964
+214,Fragrant Noodles with Mountain Delicacies,Fragrant Mora Meat,0.41464421443136457
+215,Fragrant Noodles with Mountain Delicacies,Fragrant Noodles with Mountain Delicacies,0.9999999999999998
+216,Fragrant Noodles with Mountain Delicacies,Fragrant Qingce Stir Fry,0.06666666666666665
+217,Fragrant Noodles with Mountain Delicacies,Fragrant Rice Buns,-0.18786728732554484
+218,Fragrant Noodles with Mountain Delicacies,Fragrant Stir-Fried Filet,0.2752409412815901
+219,Fragrant Noodles with Mountain Delicacies,Fragrant Stir-Fried Fish Noodles,0.4296689244236597
+220,Fragrant Noodles with Mountain Delicacies,Fragrant Stir-Fried Shrimp,-0.13801311186847082
+221,Fragrant Noodles with Mountain Delicacies,Fragrant Triple-Layered Consommé,0.07453559924999299
+222,Fragrant Noodles with Mountain Delicacies,Fragrant Universal Peace,-0.3689323936863109
+223,Fragrant Noodles with Mountain Delicacies,Fragrant Vegetarian Abalone,-0.21483446221182986
+224,Fragrant Qingce Stir Fry,Fragrant Almond Tofu,-0.26919095102908275
+225,Fragrant Qingce Stir Fry,Fragrant Bamboo Shoot Soup,-0.23693955110363688
+226,Fragrant Qingce Stir Fry,Fragrant Black-Back Perch Stew,0.43070552164653236
+227,Fragrant Qingce Stir Fry,Fragrant Crab Roe Tofu,-0.1556997888323046
+228,Fragrant Qingce Stir Fry,Fragrant Golden Crab,-0.06900655593423542
+229,Fragrant Qingce Stir Fry,Fragrant Golden Shrimp Balls,-0.1556997888323046
+230,Fragrant Qingce Stir Fry,Fragrant Jewelry Soup,0.06454972243679027
+231,Fragrant Qingce Stir Fry,Fragrant Lotus Flower Crisp,-0.34641016151377546
+232,Fragrant Qingce Stir Fry,Fragrant Mint Salad,0.3768673314407158
+233,Fragrant Qingce Stir Fry,Fragrant Mora Meat,-0.11846977555181844
+234,Fragrant Qingce Stir Fry,Fragrant Noodles with Mountain Delicacies,0.06666666666666665
+235,Fragrant Qingce Stir Fry,Fragrant Qingce Stir Fry,0.9999999999999998
+236,Fragrant Qingce Stir Fry,Fragrant Rice Buns,0.12524485821702985
+237,Fragrant Qingce Stir Fry,Fragrant Stir-Fried Filet,0.44038550605054416
+238,Fragrant Qingce Stir Fry,Fragrant Stir-Fried Fish Noodles,-0.21483446221182986
+239,Fragrant Qingce Stir Fry,Fragrant Stir-Fried Shrimp,-0.06900655593423542
+240,Fragrant Qingce Stir Fry,Fragrant Triple-Layered Consommé,0.07453559924999299
+241,Fragrant Qingce Stir Fry,Fragrant Universal Peace,-0.21081851067789195
+242,Fragrant Qingce Stir Fry,Fragrant Vegetarian Abalone,0.28644594961577313
+243,Fragrant Rice Buns,Fragrant Almond Tofu,0.1517165212272521
+244,Fragrant Rice Buns,Fragrant Black-Back Perch Stew,-0.35400521619692155
+245,Fragrant Rice Buns,Fragrant Crab Roe Tofu,-0.2193817272381392
+246,Fragrant Rice Buns,Fragrant Golden Crab,-0.25928148942086576
+247,Fragrant Rice Buns,Fragrant Golden Shrimp Balls,-0.29250896965085227
+248,Fragrant Rice Buns,Fragrant Grilled Tiger Fish,-0.2858309752375148
+249,Fragrant Rice Buns,Fragrant Jewelry Soup,0.4244373438135828
+250,Fragrant Rice Buns,Fragrant Lotus Flower Crisp,0.21693045781865616
+251,Fragrant Rice Buns,Fragrant Mora Meat,-0.11128297681493143
+252,Fragrant Rice Buns,Fragrant Noodles with Mountain Delicacies,-0.18786728732554484
+253,Fragrant Rice Buns,Fragrant Qingce Stir Fry,0.12524485821702985
+254,Fragrant Rice Buns,Fragrant Rice Buns,1.0
+255,Fragrant Rice Buns,Fragrant Stir-Fried Filet,-0.20683507599800763
+256,Fragrant Rice Buns,Fragrant Stir-Fried Fish Noodles,-0.3363363969981562
+257,Fragrant Rice Buns,Fragrant Stir-Fried Shrimp,-0.06482037235521644
+258,Fragrant Rice Buns,Fragrant Triple-Layered Consommé,-0.0700140042014005
+259,Fragrant Rice Buns,Fragrant Universal Peace,0.2475368857441686
+260,Fragrant Rice Buns,Fragrant Vegetarian Abalone,0.20180183819889375
+261,Fragrant Stir-Fried Filet,Fragrant Almond Tofu,-0.40009880202694836
+262,Fragrant Stir-Fried Filet,Fragrant Bamboo Shoot Soup,0.2445579940222592
+263,Fragrant Stir-Fried Filet,Fragrant Black-Back Perch Stew,0.6668313367115807
+264,Fragrant Stir-Fried Filet,Fragrant Crab Roe Tofu,-0.12856486930664499
+265,Fragrant Stir-Fried Filet,Fragrant Golden Crab,0.11396057645963795
+266,Fragrant Stir-Fried Filet,Fragrant Golden Shrimp Balls,0.0642824346533225
+267,Fragrant Stir-Fried Filet,Fragrant Grilled Tiger Fish,0.35176323534072423
+268,Fragrant Stir-Fried Filet,Fragrant Jewelry Soup,-0.3198010745334156
+269,Fragrant Stir-Fried Filet,Fragrant Lotus Flower Crisp,-0.23836564731139806
+270,Fragrant Stir-Fried Filet,Fragrant Mint Salad,0.22227711223719349
+271,Fragrant Stir-Fried Filet,Fragrant Mora Meat,0.3912927904356147
+272,Fragrant Stir-Fried Filet,Fragrant Noodles with Mountain Delicacies,0.2752409412815901
+273,Fragrant Stir-Fried Filet,Fragrant Qingce Stir Fry,0.44038550605054416
+274,Fragrant Stir-Fried Filet,Fragrant Rice Buns,-0.20683507599800763
+275,Fragrant Stir-Fried Filet,Fragrant Stir-Fried Filet,0.9999999999999996
+276,Fragrant Stir-Fried Filet,Fragrant Stir-Fried Fish Noodles,0.05913123959890826
+277,Fragrant Stir-Fried Filet,Fragrant Stir-Fried Shrimp,-0.1709408646894569
+278,Fragrant Stir-Fried Filet,Fragrant Triple-Layered Consommé,-0.06154574548966637
+279,Fragrant Stir-Fried Filet,Fragrant Universal Peace,-0.43519413988924455
+280,Fragrant Stir-Fried Filet,Fragrant Vegetarian Abalone,-0.23652495839563303
+281,Fragrant Stir-Fried Fish Noodles,Fragrant Almond Tofu,-0.17349447958987207
+282,Fragrant Stir-Fried Fish Noodles,Fragrant Bamboo Shoot Soup,0.1908854288927333
+283,Fragrant Stir-Fried Fish Noodles,Fragrant Black-Back Perch Stew,0.34698895917974415
+284,Fragrant Stir-Fried Fish Noodles,Fragrant Crab Roe Tofu,0.25087260300212727
+285,Fragrant Stir-Fried Fish Noodles,Fragrant Grilled Tiger Fish,0.19611613513818404
+286,Fragrant Stir-Fried Fish Noodles,Fragrant Jewelry Soup,-0.4160251471689219
+287,Fragrant Stir-Fried Fish Noodles,Fragrant Lotus Flower Crisp,-0.12403473458920845
+288,Fragrant Stir-Fried Fish Noodles,Fragrant Mint Salad,-0.11566298639324805
+289,Fragrant Stir-Fried Fish Noodles,Fragrant Mora Meat,0.1908854288927333
+290,Fragrant Stir-Fried Fish Noodles,Fragrant Noodles with Mountain Delicacies,0.4296689244236597
+291,Fragrant Stir-Fried Fish Noodles,Fragrant Qingce Stir Fry,-0.21483446221182986
+292,Fragrant Stir-Fried Fish Noodles,Fragrant Rice Buns,-0.3363363969981562
+293,Fragrant Stir-Fried Fish Noodles,Fragrant Stir-Fried Filet,0.05913123959890826
+294,Fragrant Stir-Fried Fish Noodles,Fragrant Stir-Fried Fish Noodles,1.0000000000000004
+295,Fragrant Stir-Fried Fish Noodles,Fragrant Universal Peace,-0.283069258536149
+296,Fragrant Stir-Fried Fish Noodles,Fragrant Vegetarian Abalone,-0.15384615384615385
+297,Fragrant Stir-Fried Shrimp,Fragrant Almond Tofu,0.33436692754521175
+298,Fragrant Stir-Fried Shrimp,Fragrant Bamboo Shoot Soup,0.12262786789699318
+299,Fragrant Stir-Fried Shrimp,Fragrant Crab Roe Tofu,0.40291148201269017
+300,Fragrant Stir-Fried Shrimp,Fragrant Golden Crab,0.28571428571428575
+301,Fragrant Stir-Fried Shrimp,Fragrant Golden Shrimp Balls,0.3223291856101521
+302,Fragrant Stir-Fried Shrimp,Fragrant Grilled Tiger Fish,-0.06299407883487124
+303,Fragrant Stir-Fried Shrimp,Fragrant Jewelry Soup,0.1336306209562122
+304,Fragrant Stir-Fried Shrimp,Fragrant Lotus Flower Crisp,0.17928429140015906
+305,Fragrant Stir-Fried Shrimp,Fragrant Mint Salad,-0.27863910628767646
+306,Fragrant Stir-Fried Shrimp,Fragrant Mora Meat,-0.18394180184548972
+307,Fragrant Stir-Fried Shrimp,Fragrant Noodles with Mountain Delicacies,-0.13801311186847082
+308,Fragrant Stir-Fried Shrimp,Fragrant Qingce Stir Fry,-0.06900655593423542
+309,Fragrant Stir-Fried Shrimp,Fragrant Rice Buns,-0.06482037235521644
+310,Fragrant Stir-Fried Shrimp,Fragrant Stir-Fried Filet,-0.1709408646894569
+311,Fragrant Stir-Fried Shrimp,Fragrant Stir-Fried Shrimp,0.9999999999999999
+312,Fragrant Stir-Fried Shrimp,Fragrant Triple-Layered Consommé,0.15430334996209194
+313,Fragrant Stir-Fried Shrimp,Fragrant Vegetarian Abalone,0.0741249316661101
+314,Fragrant Triple-Layered Consommé,Fragrant Almond Tofu,0.12038585308576923
+315,Fragrant Triple-Layered Consommé,Fragrant Bamboo Shoot Soup,0.33113308926626095
+316,Fragrant Triple-Layered Consommé,Fragrant Black-Back Perch Stew,0.060192926542884606
+317,Fragrant Triple-Layered Consommé,Fragrant Crab Roe Tofu,0.34815531191139576
+318,Fragrant Triple-Layered Consommé,Fragrant Golden Crab,0.07715167498104597
+319,Fragrant Triple-Layered Consommé,Fragrant Golden Shrimp Balls,0.17407765595569788
+320,Fragrant Triple-Layered Consommé,Fragrant Jewelry Soup,-0.07216878364870323
+321,Fragrant Triple-Layered Consommé,Fragrant Lotus Flower Crisp,0.12909944487358058
+322,Fragrant Triple-Layered Consommé,Fragrant Mint Salad,0.06019292654288461
+323,Fragrant Triple-Layered Consommé,Fragrant Mora Meat,-0.06622661785325219
+324,Fragrant Triple-Layered Consommé,Fragrant Noodles with Mountain Delicacies,0.07453559924999299
+325,Fragrant Triple-Layered Consommé,Fragrant Qingce Stir Fry,0.07453559924999299
+326,Fragrant Triple-Layered Consommé,Fragrant Rice Buns,-0.0700140042014005
+327,Fragrant Triple-Layered Consommé,Fragrant Stir-Fried Filet,-0.06154574548966637
+328,Fragrant Triple-Layered Consommé,Fragrant Stir-Fried Shrimp,0.15430334996209194
+329,Fragrant Triple-Layered Consommé,Fragrant Triple-Layered Consommé,1.0000000000000002
+330,Fragrant Triple-Layered Consommé,Fragrant Universal Peace,-0.11785113019775795
+331,Fragrant Triple-Layered Consommé,Fragrant Vegetarian Abalone,-0.08006407690254358
+332,Fragrant Universal Peace,Fragrant Almond Tofu,0.42562826537937426
+333,Fragrant Universal Peace,Fragrant Bamboo Shoot Soup,-0.1873171623163388
+334,Fragrant Universal Peace,Fragrant Black-Back Perch Stew,-0.5107539184552491
+335,Fragrant Universal Peace,Fragrant Crab Roe Tofu,0.061545745489666376
+336,Fragrant Universal Peace,Fragrant Golden Crab,-0.16366341767699433
+337,Fragrant Universal Peace,Fragrant Golden Shrimp Balls,-0.061545745489666376
+338,Fragrant Universal Peace,Fragrant Grilled Tiger Fish,-0.4330127018922194
+339,Fragrant Universal Peace,Fragrant Jewelry Soup,0.3061862178478973
+340,Fragrant Universal Peace,Fragrant Lotus Flower Crisp,0.5020790110464023
+341,Fragrant Universal Peace,Fragrant Mint Salad,-0.1276884796138123
+342,Fragrant Universal Peace,Fragrant Mora Meat,-0.18731716231633883
+343,Fragrant Universal Peace,Fragrant Noodles with Mountain Delicacies,-0.3689323936863109
+344,Fragrant Universal Peace,Fragrant Qingce Stir Fry,-0.21081851067789195
+345,Fragrant Universal Peace,Fragrant Rice Buns,0.2475368857441686
+346,Fragrant Universal Peace,Fragrant Stir-Fried Filet,-0.43519413988924455
+347,Fragrant Universal Peace,Fragrant Stir-Fried Fish Noodles,-0.283069258536149
+348,Fragrant Universal Peace,Fragrant Triple-Layered Consommé,-0.11785113019775795
+349,Fragrant Universal Peace,Fragrant Universal Peace,0.9999999999999997
+350,Fragrant Universal Peace,Fragrant Vegetarian Abalone,0.2264554068289192
+351,Fragrant Vegetarian Abalone,Fragrant Almond Tofu,0.05783149319662403
+352,Fragrant Vegetarian Abalone,Fragrant Bamboo Shoot Soup,-0.31814238148788887
+353,Fragrant Vegetarian Abalone,Fragrant Black-Back Perch Stew,-0.2313259727864961
+354,Fragrant Vegetarian Abalone,Fragrant Crab Roe Tofu,-0.08362420100070908
+355,Fragrant Vegetarian Abalone,Fragrant Golden Crab,-0.22237479499833038
+356,Fragrant Vegetarian Abalone,Fragrant Golden Shrimp Balls,-0.3344968040028364
+357,Fragrant Vegetarian Abalone,Fragrant Grilled Tiger Fish,-0.2614881801842454
+358,Fragrant Vegetarian Abalone,Fragrant Jewelry Soup,0.4160251471689219
+359,Fragrant Vegetarian Abalone,Fragrant Mint Salad,0.11566298639324805
+360,Fragrant Vegetarian Abalone,Fragrant Mora Meat,-0.38177085778546666
+361,Fragrant Vegetarian Abalone,Fragrant Noodles with Mountain Delicacies,-0.21483446221182986
+362,Fragrant Vegetarian Abalone,Fragrant Qingce Stir Fry,0.28644594961577313
+363,Fragrant Vegetarian Abalone,Fragrant Rice Buns,0.20180183819889375
+364,Fragrant Vegetarian Abalone,Fragrant Stir-Fried Filet,-0.23652495839563303
+365,Fragrant Vegetarian Abalone,Fragrant Stir-Fried Fish Noodles,-0.15384615384615385
+366,Fragrant Vegetarian Abalone,Fragrant Stir-Fried Shrimp,0.0741249316661101
+367,Fragrant Vegetarian Abalone,Fragrant Triple-Layered Consommé,-0.08006407690254358
+368,Fragrant Vegetarian Abalone,Fragrant Universal Peace,0.2264554068289192
+369,Fragrant Vegetarian Abalone,Fragrant Vegetarian Abalone,1.0000000000000004

@@ -3,3 +3,4 @@ pandas
 pyvis
 beautifulsoup4
 lxml
+scikit-learn
