@@ -22,32 +22,32 @@
 20,Keqing,Electro,Sword,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/0/06/Character_Keqing_Thumb.png
 21,Klee,Pyro,Catalyst,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Character_Klee_Thumb.png
 22,Kujou Sara,Electro,Bow,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/9/96/Character_Kujou_Sara_Thumb.png
-23,Lisa,Electro,Catalyst,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/5/51/Character_Lisa_Thumb.png
-24,Mona,Hydro,Catalyst,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Mona_Thumb.png
-25,Ningguang,Geo,Catalyst,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Ningguang_Thumb.png
-26,Noelle,Geo,Claymore,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Character_Noelle_Thumb.png
-27,Qiqi,Cryo,Sword,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Qiqi_Thumb.png
-28,Raiden Shogun,Electro,Polearm,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/5/52/Character_Raiden_Shogun_Thumb.png
-29,Razor,Electro,Claymore,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Character_Razor_Thumb.png
-30,Rosaria,Cryo,Polearm,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Character_Rosaria_Thumb.png
-31,Sangonomiya Kokomi,Hydro,Catalyst,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Character_Sangonomiya_Kokomi_Thumb.png
-32,Sayu,Anemo,Claymore,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Character_Sayu_Thumb.png
-33,Shenhe,Cryo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/5/58/Character_Shenhe_Thumb.png
-34,Sucrose,Anemo,Catalyst,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Sucrose_Thumb.png
-35,Tartaglia,Hydro,Bow,Snezhnaya,https://static.wikia.nocookie.net/gensin-impact/images/5/53/Character_Tartaglia_Thumb.png
-36,Thoma,Pyro,Polearm,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Character_Thoma_Thumb.png
-37,Traveler,None,Sword,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png
-38,Venti,Anemo,Bow,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Character_Venti_Thumb.png
-39,Xiangling,Pyro,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Xiangling_Thumb.png
-40,Xiao,Anemo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Xiao_Thumb.png
-41,Xingqiu,Hydro,Sword,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Xingqiu_Thumb.png
-42,Xinyan,Pyro,Claymore,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Character_Xinyan_Thumb.png
-43,Yae Miko,Electro,Catalyst,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/5/57/Character_Yae_Miko_Thumb.png
-44,Yanfei,Pyro,Catalyst,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Character_Yanfei_Thumb.png
-45,Yelan,Hydro,Bow,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Character_Yelan_Thumb.png
-46,Yoimiya,Pyro,Bow,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/0/05/Character_Yoimiya_Thumb.png
-47,Yun Jin,Geo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Character_Yun_Jin_Thumb.png
-48,Zhongli,Geo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Zhongli_Thumb.png
-49,Dainsleif,Others,Others,Khaenri'ah,https://static.wikia.nocookie.net/gensin-impact/images/7/70/Character_Dainsleif_Thumb.png
-50,Kuki Shinobu,Electro,Sword,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/3/37/Character_Kuki_Shinobu_Thumb.png
+23,Kuki Shinobu,Electro,Sword,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/3/37/Character_Kuki_Shinobu_Thumb.png
+24,Lisa,Electro,Catalyst,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/5/51/Character_Lisa_Thumb.png
+25,Mona,Hydro,Catalyst,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Mona_Thumb.png
+26,Ningguang,Geo,Catalyst,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Ningguang_Thumb.png
+27,Noelle,Geo,Claymore,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Character_Noelle_Thumb.png
+28,Qiqi,Cryo,Sword,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Qiqi_Thumb.png
+29,Raiden Shogun,Electro,Polearm,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/5/52/Character_Raiden_Shogun_Thumb.png
+30,Razor,Electro,Claymore,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Character_Razor_Thumb.png
+31,Rosaria,Cryo,Polearm,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Character_Rosaria_Thumb.png
+32,Sangonomiya Kokomi,Hydro,Catalyst,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/c/cc/Character_Sangonomiya_Kokomi_Thumb.png
+33,Sayu,Anemo,Claymore,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Character_Sayu_Thumb.png
+34,Shenhe,Cryo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/5/58/Character_Shenhe_Thumb.png
+35,Sucrose,Anemo,Catalyst,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Sucrose_Thumb.png
+36,Tartaglia,Hydro,Bow,Snezhnaya,https://static.wikia.nocookie.net/gensin-impact/images/5/53/Character_Tartaglia_Thumb.png
+37,Thoma,Pyro,Polearm,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Character_Thoma_Thumb.png
+38,Traveler,None,Sword,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png
+39,Venti,Anemo,Bow,Mondstadt,https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Character_Venti_Thumb.png
+40,Xiangling,Pyro,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Xiangling_Thumb.png
+41,Xiao,Anemo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Xiao_Thumb.png
+42,Xingqiu,Hydro,Sword,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Xingqiu_Thumb.png
+43,Xinyan,Pyro,Claymore,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Character_Xinyan_Thumb.png
+44,Yae Miko,Electro,Catalyst,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/5/57/Character_Yae_Miko_Thumb.png
+45,Yanfei,Pyro,Catalyst,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Character_Yanfei_Thumb.png
+46,Yelan,Hydro,Bow,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Character_Yelan_Thumb.png
+47,Yoimiya,Pyro,Bow,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/0/05/Character_Yoimiya_Thumb.png
+48,Yun Jin,Geo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Character_Yun_Jin_Thumb.png
+49,Zhongli,Geo,Polearm,Liyue,https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Zhongli_Thumb.png
+50,Dainsleif,Others,Others,Khaenri'ah,https://static.wikia.nocookie.net/gensin-impact/images/7/70/Character_Dainsleif_Thumb.png
 51,Shikanoin Heizou,Anemo,Others,Inazuma,https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Character_Shikanoin_Heizou_Thumb.png
