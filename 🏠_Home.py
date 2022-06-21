@@ -11,6 +11,13 @@ Some analyses based on data of the popular open-world game Genshin Impact. Made 
 👈 Select a demo from the **sidebar** and check out the results!
 
 This work is open-source. Check our [GitHub repository](https://github.com/MiracleXYZ/genshin-network-graph) and feel free to leave comments on the [Issue page](https://github.com/MiracleXYZ/genshin-network-graph/issues)!
+
+## Change Log
+
+- 2022-06-21: Update Voice-Overs: Kuki Shinobu.
+- 2022-06-16: Change to multi-page APP.
+- 2022-06-13: Initial commit.
+
 """
 )
 
