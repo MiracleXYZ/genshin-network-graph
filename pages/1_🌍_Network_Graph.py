@@ -78,9 +78,7 @@ else:
     with open("./options.json", "r") as f:
         gs_net.set_options(f.read())
 
-    path = os.path.join(
-        get_html_path(), 'genshin_network.html'
-    )
+    path = os.path.join(get_html_path(), "genshin_network.html")
     gs_net.show(path)
     add_fullscreen(path)
     html_file = open(path, "r", encoding="utf-8")
@@ -91,7 +89,7 @@ else:
 ## 💡 Tips
 
 1. It may take a while to load the network graph. Please be patient.
-2. Click on the graph and press "F" to toggle fullscreen.
+2. Double click on the graph (or click and press "F") to toggle fullscreen.
 3. Graph physics is on. Feel free to drag some characters and see how it goes.
 4. The initialization is random. If you want a different layout, just refresh the page or toggle an option and then toggle back.\
 """

@@ -22,24 +22,31 @@ def add_fullscreen(filepath):
     script_soup = BeautifulSoup(
         """\
 <script>
+var toggleFullScreen = function(el) {
+    if(!document.fullscreenElement){
+        if(el.requestFullScreen) {
+            el.requestFullScreen();
+        } else if (el.webkitRequestFullScreen) {
+            el.webkitRequestFullScreen();
+        } else if (el.mozRequestFullScreen) {
+            el.mozRequestFullScreen();
+        }
+    } else {
+        document.exitFullscreen();
+    }
+}
+
+var networkEl = document.getElementById("mynetwork");
 document.onkeydown = function(e){
     e = e || window.event;
     var key = e.which || e.keyCode;
     if(key===70){
-        if(!document.fullscreenElement){
-            var networkEl = document.getElementById("mynetwork").requestFullscreen();
-            if(networkEl.requestFullScreen) {
-                networkEl.requestFullScreen();
-            } else if (networkEl.webkitRequestFullScreen) {
-                networkEl.webkitRequestFullScreen();
-            } else if (networkEl.mozRequestFullScreen) {
-                networkEl.mozRequestFullScreen();
-            }
-        } else {
-            document.exitFullscreen();
-        }
+        toggleFullScreen(networkEl);
     }
 };
+networkEl.addEventListener("dblclick", function() {
+    toggleFullScreen(networkEl);
+});
 </script>
 """,
         "lxml",
@@ -49,7 +56,8 @@ document.onkeydown = function(e){
 
     with open(filepath, "w") as f:
         f.write(str(soup))
-        
+
+
 def get_node_options(char, df_chars, size=250, selected_characters=None):
     colormap = {
         "Pyro": "rgb(205,134,71)",
@@ -83,16 +91,13 @@ def get_node_options(char, df_chars, size=250, selected_characters=None):
             "image": f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}",
         }
 
+
 def get_node_options_dish(char, df_chars, size=250):
     entries = df_chars[df_chars["name"] == char]
     if len(entries) > 0:
         entry = entries.iloc[0]
 
-        node_options = {
-            "size": 250,
-            "shape": "circularImage",
-            "image": entry["image"]
-        }
+        node_options = {"size": 250, "shape": "circularImage", "image": entry["image"]}
 
         return node_options
     else:
@@ -102,9 +107,12 @@ def get_node_options_dish(char, df_chars, size=250):
             "image": f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}",
         }
 
+
 def remove_duplicates(df):
-    df['Combination'] = df[['Source', 'Target']].apply(lambda x: '-'.join(sorted(x.tolist())), axis=1)
-    df = df.drop_duplicates(subset='Combination')
-    df = df.drop(columns=['Combination'])
+    df["Combination"] = df[["Source", "Target"]].apply(
+        lambda x: "-".join(sorted(x.tolist())), axis=1
+    )
+    df = df.drop_duplicates(subset="Combination")
+    df = df.drop(columns=["Combination"])
     df = df.reset_index(drop=True)
     return df
