@@ -11,6 +11,12 @@ st.set_page_config(page_title="Character Network Graph", page_icon="🌍")
 df_chars = pd.read_pickle("./data/characters.pickle")
 df_text = pd.read_pickle("./data/voice_text.pickle")
 
+npcs = (
+    set(df_text["Source"].tolist())
+    .union(set(df_text["Target"].tolist()))
+    .difference(set(df_chars["Name"].tolist()))
+)
+
 # for traveler
 df_chars.loc[df_chars["Name"] == "Traveler", "Element"] = "Traveler"
 
@@ -30,10 +36,14 @@ filter_mode = st.selectbox(
 )
 selected_elements = st.multiselect("Select Element(s)", elements, default=elements)
 selected_regions = st.multiselect("Select Region(s)", regions, default=regions)
+include_npcs = st.checkbox("Include NPCs", value=False)
+
 selected_characters = df_chars[
     (df_chars["Element"].isin(selected_elements))
     & (df_chars["Region"].isin(selected_regions))
 ]["Name"].tolist()
+if include_npcs:
+    selected_characters += npcs
 
 if filter_mode.startswith("Strict"):
     df_text = df_text[
