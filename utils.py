@@ -1,7 +1,14 @@
 import os
 import platform
+import json
 
 from bs4 import BeautifulSoup
+
+with open("./data/colormap.json", "r") as f:
+    COLORMAP = json.load(f)
+
+with open("./data/addmap.json", "r") as f:
+    ADDMAP = json.load(f)
 
 
 def get_html_path():
@@ -59,16 +66,6 @@ networkEl.addEventListener("dblclick", function() {
 
 
 def get_node_options(char, df_chars, size=250, selected_characters=None):
-    colormap = {
-        "Pyro": "rgb(205,134,71)",
-        "Hydro": "rgb(140,190,235)",
-        "Electro": "rgb(167,147,190)",
-        "Cryo": "rgb(145,163,176)",
-        "Anemo": "rgb(147,184,166)",
-        "Geo": "rgb(223,186,81)",
-        "Dendro": "rgb(176,198,86)",
-    }
-
     entries = df_chars[df_chars["Name"] == char]
     if len(entries) > 0:
         entry = entries.iloc[0]
@@ -78,7 +75,7 @@ def get_node_options(char, df_chars, size=250, selected_characters=None):
             "shape": "circularImage",
             "image": entry["Image"],
             "group": entry["Element"] or "Others",
-            "color": colormap.get(entry["Element"], "white"),
+            "color": COLORMAP.get(entry["Element"], "white"),
         }
 
         if selected_characters and char not in selected_characters:
@@ -88,7 +85,9 @@ def get_node_options(char, df_chars, size=250, selected_characters=None):
         return {
             "size": 250,
             "shape": "circularImage",
-            "image": f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}",
+            "image": ADDMAP[char]
+            if char in ADDMAP
+            else f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}",
         }
 
 
