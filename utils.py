@@ -85,9 +85,7 @@ def get_node_options(char, df_chars, size=250, selected_characters=None):
         return {
             "size": 250,
             "shape": "circularImage",
-            "image": ADDMAP[char]
-            if char in ADDMAP
-            else f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}",
+            "image": ADDMAP.get(char, f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}"),
         }
 
 
