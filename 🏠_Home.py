@@ -14,6 +14,7 @@ This work is open-source. Check our [GitHub repository](https://github.com/Mirac
 
 ## Change Log
 
+- 2022-07-13: Update Voice-Overs: Shikanoin Heizou, Tartaglia.
 - 2022-07-11: Include Introduction text data. (source: Twitter [@GenshinImpact](https://twitter.com/GenshinImpact))
 - 2022-06-21: Update Voice-Overs: Kuki Shinobu.
 - 2022-06-16: Change to multi-page APP.
