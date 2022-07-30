@@ -1,6 +1,6 @@
 ,Name,Element,Weapon,Region,Model Type,Image
 0,Albedo,Geo,Sword,Mondstadt,Medium Male,https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Albedo_Thumb.png
-1,Aloy,Cryo,Bow,Others,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Character_Aloy_Thumb.png
+1,Aloy,Cryo,Bow,None,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Character_Aloy_Thumb.png
 2,Amber,Pyro,Bow,Mondstadt,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Character_Amber_Thumb.png
 3,Arataki Itto,Geo,Claymore,Inazuma,Tall Male,https://static.wikia.nocookie.net/gensin-impact/images/7/79/Character_Arataki_Itto_Thumb.png
 4,Barbara,Hydro,Catalyst,Mondstadt,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/7/72/Character_Barbara_Thumb.png
@@ -38,7 +38,7 @@
 36,Sucrose,Anemo,Catalyst,Mondstadt,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/6/61/Character_Sucrose_Thumb.png
 37,Tartaglia,Hydro,Bow,Snezhnaya,Tall Male,https://static.wikia.nocookie.net/gensin-impact/images/5/53/Character_Tartaglia_Thumb.png
 38,Thoma,Pyro,Polearm,Inazuma,Tall Male,https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Character_Thoma_Thumb.png
-39,Traveler,None,Sword,Others,Aether:  Medium Male  Lumine:  Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png
+39,Traveler,None,Sword,None,Aether:  Medium Male  Lumine:  Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png
 40,Venti,Anemo,Bow,Mondstadt,Medium Male,https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Character_Venti_Thumb.png
 41,Xiangling,Pyro,Polearm,Liyue,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Xiangling_Thumb.png
 42,Xiao,Anemo,Polearm,Liyue,Medium Male,https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Xiao_Thumb.png
@@ -51,6 +51,6 @@
 49,Yun Jin,Geo,Polearm,Liyue,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Character_Yun_Jin_Thumb.png
 50,Zhongli,Geo,Polearm,Liyue,Tall Male,https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Zhongli_Thumb.png
 51,Collei,Dendro,Others,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Character_Collei_Thumb.png
-52,Dainsleif,Others,Others,Khaenri'ah,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/70/Character_Dainsleif_Thumb.png
+52,Dainsleif,Others,Others,None,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/70/Character_Dainsleif_Thumb.png
 53,Dori,Electro,Others,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/9/90/Character_Dori_Thumb.png
 54,Tighnari,Dendro,Others,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/9/91/Character_Tighnari_Thumb.png
