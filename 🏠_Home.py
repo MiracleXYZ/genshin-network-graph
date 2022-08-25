@@ -14,6 +14,7 @@ This work is open-source. Check our [GitHub repository](https://github.com/Mirac
 
 ## Change Log
 
+- 2022-08-24: Update Voice-Overs: Tighnari, Collei.
 - 2022-07-13:
     - Update Voice-Overs: Shikanoin Heizou, Tartaglia.
     - Add thumbnails for Fatui Harbingers.
