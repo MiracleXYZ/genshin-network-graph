@@ -29,7 +29,7 @@
 27,Kuki Shinobu,Electro,Sword,Inazuma,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/3/37/Character_Kuki_Shinobu_Thumb.png
 28,Lisa,Electro,Catalyst,Mondstadt,Tall Female,https://static.wikia.nocookie.net/gensin-impact/images/5/51/Character_Lisa_Thumb.png
 29,Mona,Hydro,Catalyst,Mondstadt,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Mona_Thumb.png
-30,Nilou,Hydro,Sword,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Character_Nilou_Thumb.png
+30,Nilou,Hydro,Sword,Sumeru,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Character_Nilou_Thumb.png
 31,Ningguang,Geo,Catalyst,Liyue,Tall Female,https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Ningguang_Thumb.png
 32,Noelle,Geo,Claymore,Mondstadt,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Character_Noelle_Thumb.png
 33,Qiqi,Cryo,Sword,Liyue,Short Female,https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Character_Qiqi_Thumb.png
@@ -57,5 +57,7 @@
 55,Yun Jin,Geo,Polearm,Liyue,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Character_Yun_Jin_Thumb.png
 56,Zhongli,Geo,Polearm,Liyue,Tall Male,https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Zhongli_Thumb.png
 57,Dainsleif,Others,Others,Khaenri'ah,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/70/Character_Dainsleif_Thumb.png
-58,Layla,Cryo,Others,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Layla_Thumb.png
-59,Nahida,Dendro,Others,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Character_Nahida_Thumb.png
+58,Faruzan,Anemo,Others,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Character_Faruzan_Thumb.png
+59,Layla,Cryo,Sword,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Layla_Thumb.png
+60,Nahida,Dendro,Catalyst,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Character_Nahida_Thumb.png
+61,Wanderer,Anemo,Others,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Character_Wanderer_Thumb.png
