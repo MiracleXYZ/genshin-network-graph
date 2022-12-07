@@ -14,6 +14,7 @@ This work is open-source. Check our [GitHub repository](https://github.com/Mirac
 
 ## Change Log
 
+- 2022-12-08: Update Voice-Overs: Wanderer, Faruzan.
 - 2022-11-18: Update Voice-Overs: Layla.
 - 2022-11-02: Update Voice-Overs: Nahida.
 - 2022-10-14: Update Voice-Overs: Nilou.
