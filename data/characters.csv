@@ -14,7 +14,7 @@
 12,Diona,Cryo,Bow,Mondstadt,Short Female,https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Diona_Thumb.png
 13,Dori,Electro,Claymore,Sumeru,Short Female,https://static.wikia.nocookie.net/gensin-impact/images/9/90/Character_Dori_Thumb.png
 14,Eula,Cryo,Claymore,Mondstadt,Tall Female,https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Character_Eula_Thumb.png
-15,Faruzan,Anemo,Bow,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Character_Faruzan_Thumb.png
+15,Faruzan,Anemo,Bow,Sumeru,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Character_Faruzan_Thumb.png
 16,Fischl,Electro,Bow,Mondstadt,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/1/14/Character_Fischl_Thumb.png
 17,Ganyu,Cryo,Bow,Liyue,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Character_Ganyu_Thumb.png
 18,Gorou,Geo,Bow,Inazuma,Medium Male,https://static.wikia.nocookie.net/gensin-impact/images/5/56/Character_Gorou_Thumb.png
@@ -49,7 +49,7 @@
 47,Tighnari,Dendro,Bow,Sumeru,Medium Male,https://static.wikia.nocookie.net/gensin-impact/images/9/91/Character_Tighnari_Thumb.png
 48,Traveler,None,Sword,None,Aether:  Medium Male  Lumine:  Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png
 49,Venti,Anemo,Bow,Mondstadt,Medium Male,https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Character_Venti_Thumb.png
-50,Wanderer,Anemo,Catalyst,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Character_Wanderer_Thumb.png
+50,Wanderer,Anemo,Catalyst,Sumeru,Medium Male,https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Character_Wanderer_Thumb.png
 51,Xiangling,Pyro,Polearm,Liyue,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Xiangling_Thumb.png
 52,Xiao,Anemo,Polearm,Liyue,Medium Male,https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Xiao_Thumb.png
 53,Xingqiu,Hydro,Sword,Liyue,Medium Male,https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Xingqiu_Thumb.png
@@ -60,4 +60,6 @@
 58,Yoimiya,Pyro,Bow,Inazuma,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/0/05/Character_Yoimiya_Thumb.png
 59,Yun Jin,Geo,Polearm,Liyue,Medium Female,https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Character_Yun_Jin_Thumb.png
 60,Zhongli,Geo,Polearm,Liyue,Tall Male,https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Zhongli_Thumb.png
-61,Dainsleif,Others,Others,Khaenri'ah,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/70/Character_Dainsleif_Thumb.png
+61,Alhaitham,Dendro,Others,Sumeru,Others,https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Alhaitham_Thumb.png
+62,Dainsleif,Others,Others,Khaenri'ah,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/70/Character_Dainsleif_Thumb.png
+63,Yaoyao,Dendro,Others,Liyue,Others,https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Character_Yaoyao_Thumb.png
