@@ -14,7 +14,7 @@ This work is open-source. Check our [GitHub repository](https://github.com/Mirac
 
 ## Change Log
 
-- 2023-04-10: Update Voice-Overs: Kirara 🐱
+- 2023-05-24: Update Voice-Overs: Mika, Baizhu, Kaveh, Kirara 🐱
 - 2023-03-12: Update Voice-Overs: Dehya.
 - 2023-01-21: Update Voice-Overs: Alhaitham, Yaoyao.
 - 2022-12-08: Update Voice-Overs: Wanderer, Faruzan.
