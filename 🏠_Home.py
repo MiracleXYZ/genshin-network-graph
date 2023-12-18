@@ -4,8 +4,7 @@ st.set_page_config(page_title="Genshin Analysis", page_icon="📈")
 
 st.write("# Genshin Analysis")
 
-st.markdown(
-    """\
+st.markdown("""\
 Some analyses based on data of the popular open-world game Genshin Impact. Made and maintained by [MiracleXYZ](https://github.com/MiracleXYZ). Hosted by [Streamlit Cloud](https://streamlit.io/).
 
 👈 Select a demo from the **sidebar** and check out the results!
@@ -14,6 +13,7 @@ This work is open-source. Check our [GitHub repository](https://github.com/Mirac
 
 ## Change Log
 
+- 2023-12-18: Update Voice-Overs: Neuvillette, Wriothesley, Furina, Charlotte.
 - 2023-08-26: Update Voice-Overs: Lyney, Lynette, Freminet.
 - 2023-05-24: Update Voice-Overs: Mika, Baizhu, Kaveh, Kirara.
 - 2023-03-12: Update Voice-Overs: Dehya.
@@ -33,6 +33,4 @@ This work is open-source. Check our [GitHub repository](https://github.com/Mirac
 - 2022-06-16: Change to multi-page APP.
 - 2022-06-13: Initial commit.
 
-"""
-)
-
+""")
