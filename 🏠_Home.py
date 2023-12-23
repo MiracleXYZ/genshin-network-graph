@@ -13,6 +13,7 @@ This work is open-source. Check our [GitHub repository](https://github.com/Mirac
 
 ## Change Log
 
+- 2023-12-23: Use a Transformer-based approach for sentiment analysis.
 - 2023-12-18: Update Voice-Overs: Neuvillette, Wriothesley, Furina, Charlotte.
 - 2023-08-26: Update Voice-Overs: Lyney, Lynette, Freminet.
 - 2023-05-24: Update Voice-Overs: Mika, Baizhu, Kaveh, Kirara.
