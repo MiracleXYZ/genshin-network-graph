@@ -10,72 +10,73 @@
 8,Bennett,Pyro,Sword,Mondstadt,Medium Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/7/79/Bennett_Icon.png
 9,Candace,Hydro,Polearm,Sumeru,Tall Female,"September 28, 2022",3.1,https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Candace_Icon.png
 10,Charlotte,Cryo,Catalyst,Fontaine,Medium Female,"November 08, 2023",4.2,https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Charlotte_Icon.png
-11,Chongyun,Cryo,Claymore,Liyue,Medium Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png
-12,Collei,Dendro,Bow,Sumeru,Medium Female,"August 24, 2022",3.0,https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Collei_Icon.png
-13,Cyno,Electro,Polearm,Sumeru,Medium Male,"September 28, 2022",3.1,https://static.wikia.nocookie.net/gensin-impact/images/3/31/Cyno_Icon.png
-14,Dehya,Pyro,Claymore,Sumeru,Tall Female,"March 01, 2023",3.5,https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Dehya_Icon.png
-15,Diluc,Pyro,Claymore,Mondstadt,Tall Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png
-16,Diona,Cryo,Bow,Mondstadt,Short Female,"November 11, 2020",1.1,https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png
-17,Dori,Electro,Claymore,Sumeru,Short Female,"September 09, 2022",3.0,https://static.wikia.nocookie.net/gensin-impact/images/5/54/Dori_Icon.png
-18,Eula,Cryo,Claymore,Mondstadt,Tall Female,"May 18, 2021",1.5,https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png
-19,Faruzan,Anemo,Bow,Sumeru,Medium Female,"December 07, 2022",3.3,https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Faruzan_Icon.png
-20,Fischl,Electro,Bow,Mondstadt,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png
-21,Freminet,Cryo,Claymore,Fontaine,Medium Male,"September 05, 2023",4.0,https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Freminet_Icon.png
-22,Furina,Hydro,Sword,Fontaine,Medium Female,"November 08, 2023",4.2,https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Furina_Icon.png
-23,Ganyu,Cryo,Bow,Liyue,Medium Female,"January 12, 2021",1.2,https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png
-24,Gorou,Geo,Bow,Inazuma,Medium Male,"December 14, 2021",2.3,https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Gorou_Icon.png
-25,Hu Tao,Pyro,Polearm,Liyue,Medium Female,"March 02, 2021",1.3,https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png
-26,Jean,Anemo,Sword,Mondstadt,Tall Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png
-27,Kaedehara Kazuha,Anemo,Sword,Inazuma,Medium Male,"June 29, 2021",1.6,https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png
-28,Kaeya,Cryo,Sword,Mondstadt,Tall Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png
-29,Kamisato Ayaka,Cryo,Sword,Inazuma,Medium Female,"July 21, 2021",2.0,https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png
-30,Kamisato Ayato,Hydro,Sword,Inazuma,Tall Male,"March 30, 2022",2.6,https://static.wikia.nocookie.net/gensin-impact/images/2/27/Kamisato_Ayato_Icon.png
-31,Kaveh,Dendro,Claymore,Sumeru,Tall Male,"May 02, 2023",3.6,https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Kaveh_Icon.png
-32,Keqing,Electro,Sword,Liyue,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png
-33,Kirara,Dendro,Sword,Inazuma,Medium Female,"May 24, 2023",3.7,https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kirara_Icon.png
-34,Klee,Pyro,Catalyst,Mondstadt,Short Female,"October 20, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png
-35,Kujou Sara,Electro,Bow,Inazuma,Tall Female,"September 01, 2021",2.1,https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png
-36,Kuki Shinobu,Electro,Sword,Inazuma,Medium Female,"June 21, 2022",2.7,https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Kuki_Shinobu_Icon.png
-37,Layla,Cryo,Sword,Sumeru,Medium Female,"November 18, 2022",3.2,https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Layla_Icon.png
-38,Lisa,Electro,Catalyst,Mondstadt,Tall Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png
-39,Lynette,Anemo,Sword,Fontaine,Medium Female,"August 16, 2023",4.0,https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Lynette_Icon.png
-40,Lyney,Pyro,Bow,Fontaine,Medium Male,"August 16, 2023",4.0,https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Lyney_Icon.png
-41,Mika,Cryo,Polearm,Mondstadt,Medium Male,"March 21, 2023",3.5,https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Mika_Icon.png
-42,Mona,Hydro,Catalyst,Mondstadt,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mona_Icon.png
-43,Nahida,Dendro,Catalyst,Sumeru,Short Female,"November 02, 2022",3.2,https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Nahida_Icon.png
-44,Navia,Geo,Claymore,Fontaine,Tall Female,"December 20, 2023",4.3,https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Navia_Icon.png
-45,Neuvillette,Hydro,Catalyst,Fontaine,Tall Male,"September 27, 2023",4.1,https://static.wikia.nocookie.net/gensin-impact/images/2/21/Neuvillette_Icon.png
-46,Nilou,Hydro,Sword,Sumeru,Medium Female,"October 14, 2022",3.1,https://static.wikia.nocookie.net/gensin-impact/images/5/58/Nilou_Icon.png
-47,Ningguang,Geo,Catalyst,Liyue,Tall Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Ningguang_Icon.png
-48,Noelle,Geo,Claymore,Mondstadt,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Noelle_Icon.png
-49,Qiqi,Cryo,Sword,Liyue,Short Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Qiqi_Icon.png
-50,Raiden Shogun,Electro,Polearm,Inazuma,Tall Female,"September 01, 2021",2.1,https://static.wikia.nocookie.net/gensin-impact/images/2/24/Raiden_Shogun_Icon.png
-51,Razor,Electro,Claymore,Mondstadt,Medium Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Razor_Icon.png
-52,Rosaria,Cryo,Polearm,Mondstadt,Tall Female,"April 06, 2021",1.4,https://static.wikia.nocookie.net/gensin-impact/images/3/35/Rosaria_Icon.png
-53,Sangonomiya Kokomi,Hydro,Catalyst,Inazuma,Medium Female,"September 21, 2021",2.1,https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Sangonomiya_Kokomi_Icon.png
-54,Sayu,Anemo,Claymore,Inazuma,Short Female,"August 10, 2021",2.0,https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sayu_Icon.png
-55,Shenhe,Cryo,Polearm,Liyue,Tall Female,"January 05, 2022",2.4,https://static.wikia.nocookie.net/gensin-impact/images/a/af/Shenhe_Icon.png
-56,Shikanoin Heizou,Anemo,Catalyst,Inazuma,Medium Male,"July 13, 2022",2.8,https://static.wikia.nocookie.net/gensin-impact/images/2/20/Shikanoin_Heizou_Icon.png
-57,Sucrose,Anemo,Catalyst,Mondstadt,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Sucrose_Icon.png
-58,Tartaglia,Hydro,Bow,Snezhnaya,Tall Male,"November 11, 2020",1.1,https://static.wikia.nocookie.net/gensin-impact/images/8/85/Tartaglia_Icon.png
-59,Thoma,Pyro,Polearm,Inazuma,Tall Male,"November 02, 2021",2.2,https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Thoma_Icon.png
-60,Tighnari,Dendro,Bow,Sumeru,Medium Male,"August 24, 2022",3.0,https://static.wikia.nocookie.net/gensin-impact/images/8/87/Tighnari_Icon.png
-61,Traveler,Others,Sword,Others,Aether:  Medium Male  Lumine:  Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/5/59/Traveler_Icon.png
-62,Venti,Anemo,Bow,Mondstadt,Medium Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Venti_Icon.png
-63,Wanderer,Anemo,Catalyst,Sumeru,Medium Male,"December 07, 2022",3.3,https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Wanderer_Icon.png
-64,Wriothesley,Cryo,Catalyst,Fontaine,Tall Male,"October 17, 2023",4.1,https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Wriothesley_Icon.png
-65,Xiangling,Pyro,Polearm,Liyue,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/3/39/Xiangling_Icon.png
-66,Xiao,Anemo,Polearm,Liyue,Medium Male,"February 03, 2021",1.3,https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Xiao_Icon.png
-67,Xingqiu,Hydro,Sword,Liyue,Medium Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Xingqiu_Icon.png
-68,Xinyan,Pyro,Claymore,Liyue,Medium Female,"December 01, 2020",1.1,https://static.wikia.nocookie.net/gensin-impact/images/2/24/Xinyan_Icon.png
-69,Yae Miko,Electro,Catalyst,Inazuma,Tall Female,"February 16, 2022",2.5,https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Yae_Miko_Icon.png
-70,Yanfei,Pyro,Catalyst,Liyue,Medium Female,"April 28, 2021",1.5,https://static.wikia.nocookie.net/gensin-impact/images/5/54/Yanfei_Icon.png
-71,Yaoyao,Dendro,Polearm,Liyue,Short Female,"January 18, 2023",3.4,https://static.wikia.nocookie.net/gensin-impact/images/8/83/Yaoyao_Icon.png
-72,Yelan,Hydro,Bow,Liyue,Tall Female,"May 31, 2022",2.7,https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Yelan_Icon.png
-73,Yoimiya,Pyro,Bow,Inazuma,Medium Female,"August 10, 2021",2.0,https://static.wikia.nocookie.net/gensin-impact/images/8/88/Yoimiya_Icon.png
-74,Yun Jin,Geo,Polearm,Liyue,Medium Female,"January 05, 2022",2.4,https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Yun_Jin_Icon.png
-75,Zhongli,Geo,Polearm,Liyue,Tall Male,"December 01, 2020",1.1,https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Zhongli_Icon.png
-76,Chevreuse,Pyro,Polearm,Fontaine,Others,Others,Others,https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Chevreuse_Icon.png
-77,Dainsleif,Others,Others,Khaenri'ah,Others,Others,Others,https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Dainsleif_Icon.png
-78,Gaming,Pyro,Others,Liyue,Others,Others,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/77/Gaming_Icon.png
-79,Xianyun,Anemo,Others,Liyue,Others,Others,Others,https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Xianyun_Icon.png
+11,Chevreuse,Pyro,Polearm,Fontaine,Medium Female,"January 09, 2024",4.3,https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Chevreuse_Icon.png
+12,Chongyun,Cryo,Claymore,Liyue,Medium Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png
+13,Collei,Dendro,Bow,Sumeru,Medium Female,"August 24, 2022",3.0,https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Collei_Icon.png
+14,Cyno,Electro,Polearm,Sumeru,Medium Male,"September 28, 2022",3.1,https://static.wikia.nocookie.net/gensin-impact/images/3/31/Cyno_Icon.png
+15,Dehya,Pyro,Claymore,Sumeru,Tall Female,"March 01, 2023",3.5,https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Dehya_Icon.png
+16,Diluc,Pyro,Claymore,Mondstadt,Tall Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png
+17,Diona,Cryo,Bow,Mondstadt,Short Female,"November 11, 2020",1.1,https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png
+18,Dori,Electro,Claymore,Sumeru,Short Female,"September 09, 2022",3.0,https://static.wikia.nocookie.net/gensin-impact/images/5/54/Dori_Icon.png
+19,Eula,Cryo,Claymore,Mondstadt,Tall Female,"May 18, 2021",1.5,https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png
+20,Faruzan,Anemo,Bow,Sumeru,Medium Female,"December 07, 2022",3.3,https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Faruzan_Icon.png
+21,Fischl,Electro,Bow,Mondstadt,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png
+22,Freminet,Cryo,Claymore,Fontaine,Medium Male,"September 05, 2023",4.0,https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Freminet_Icon.png
+23,Furina,Hydro,Sword,Fontaine,Medium Female,"November 08, 2023",4.2,https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Furina_Icon.png
+24,Ganyu,Cryo,Bow,Liyue,Medium Female,"January 12, 2021",1.2,https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png
+25,Gorou,Geo,Bow,Inazuma,Medium Male,"December 14, 2021",2.3,https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Gorou_Icon.png
+26,Hu Tao,Pyro,Polearm,Liyue,Medium Female,"March 02, 2021",1.3,https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png
+27,Jean,Anemo,Sword,Mondstadt,Tall Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png
+28,Kaedehara Kazuha,Anemo,Sword,Inazuma,Medium Male,"June 29, 2021",1.6,https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png
+29,Kaeya,Cryo,Sword,Mondstadt,Tall Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png
+30,Kamisato Ayaka,Cryo,Sword,Inazuma,Medium Female,"July 21, 2021",2.0,https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png
+31,Kamisato Ayato,Hydro,Sword,Inazuma,Tall Male,"March 30, 2022",2.6,https://static.wikia.nocookie.net/gensin-impact/images/2/27/Kamisato_Ayato_Icon.png
+32,Kaveh,Dendro,Claymore,Sumeru,Tall Male,"May 02, 2023",3.6,https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Kaveh_Icon.png
+33,Keqing,Electro,Sword,Liyue,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png
+34,Kirara,Dendro,Sword,Inazuma,Medium Female,"May 24, 2023",3.7,https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kirara_Icon.png
+35,Klee,Pyro,Catalyst,Mondstadt,Short Female,"October 20, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png
+36,Kujou Sara,Electro,Bow,Inazuma,Tall Female,"September 01, 2021",2.1,https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png
+37,Kuki Shinobu,Electro,Sword,Inazuma,Medium Female,"June 21, 2022",2.7,https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Kuki_Shinobu_Icon.png
+38,Layla,Cryo,Sword,Sumeru,Medium Female,"November 18, 2022",3.2,https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Layla_Icon.png
+39,Lisa,Electro,Catalyst,Mondstadt,Tall Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png
+40,Lynette,Anemo,Sword,Fontaine,Medium Female,"August 16, 2023",4.0,https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Lynette_Icon.png
+41,Lyney,Pyro,Bow,Fontaine,Medium Male,"August 16, 2023",4.0,https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Lyney_Icon.png
+42,Mika,Cryo,Polearm,Mondstadt,Medium Male,"March 21, 2023",3.5,https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Mika_Icon.png
+43,Mona,Hydro,Catalyst,Mondstadt,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mona_Icon.png
+44,Nahida,Dendro,Catalyst,Sumeru,Short Female,"November 02, 2022",3.2,https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Nahida_Icon.png
+45,Navia,Geo,Claymore,Fontaine,Tall Female,"December 20, 2023",4.3,https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Navia_Icon.png
+46,Neuvillette,Hydro,Catalyst,Fontaine,Tall Male,"September 27, 2023",4.1,https://static.wikia.nocookie.net/gensin-impact/images/2/21/Neuvillette_Icon.png
+47,Nilou,Hydro,Sword,Sumeru,Medium Female,"October 14, 2022",3.1,https://static.wikia.nocookie.net/gensin-impact/images/5/58/Nilou_Icon.png
+48,Ningguang,Geo,Catalyst,Liyue,Tall Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Ningguang_Icon.png
+49,Noelle,Geo,Claymore,Mondstadt,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Noelle_Icon.png
+50,Qiqi,Cryo,Sword,Liyue,Short Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Qiqi_Icon.png
+51,Raiden Shogun,Electro,Polearm,Inazuma,Tall Female,"September 01, 2021",2.1,https://static.wikia.nocookie.net/gensin-impact/images/2/24/Raiden_Shogun_Icon.png
+52,Razor,Electro,Claymore,Mondstadt,Medium Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Razor_Icon.png
+53,Rosaria,Cryo,Polearm,Mondstadt,Tall Female,"April 06, 2021",1.4,https://static.wikia.nocookie.net/gensin-impact/images/3/35/Rosaria_Icon.png
+54,Sangonomiya Kokomi,Hydro,Catalyst,Inazuma,Medium Female,"September 21, 2021",2.1,https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Sangonomiya_Kokomi_Icon.png
+55,Sayu,Anemo,Claymore,Inazuma,Short Female,"August 10, 2021",2.0,https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sayu_Icon.png
+56,Shenhe,Cryo,Polearm,Liyue,Tall Female,"January 05, 2022",2.4,https://static.wikia.nocookie.net/gensin-impact/images/a/af/Shenhe_Icon.png
+57,Shikanoin Heizou,Anemo,Catalyst,Inazuma,Medium Male,"July 13, 2022",2.8,https://static.wikia.nocookie.net/gensin-impact/images/2/20/Shikanoin_Heizou_Icon.png
+58,Sucrose,Anemo,Catalyst,Mondstadt,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Sucrose_Icon.png
+59,Tartaglia,Hydro,Bow,Snezhnaya,Tall Male,"November 11, 2020",1.1,https://static.wikia.nocookie.net/gensin-impact/images/8/85/Tartaglia_Icon.png
+60,Thoma,Pyro,Polearm,Inazuma,Tall Male,"November 02, 2021",2.2,https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Thoma_Icon.png
+61,Tighnari,Dendro,Bow,Sumeru,Medium Male,"August 24, 2022",3.0,https://static.wikia.nocookie.net/gensin-impact/images/8/87/Tighnari_Icon.png
+62,Traveler,Others,Sword,Others,Aether:  Medium Male  Lumine:  Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/5/59/Traveler_Icon.png
+63,Venti,Anemo,Bow,Mondstadt,Medium Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Venti_Icon.png
+64,Wanderer,Anemo,Catalyst,Sumeru,Medium Male,"December 07, 2022",3.3,https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Wanderer_Icon.png
+65,Wriothesley,Cryo,Catalyst,Fontaine,Tall Male,"October 17, 2023",4.1,https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Wriothesley_Icon.png
+66,Xiangling,Pyro,Polearm,Liyue,Medium Female,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/3/39/Xiangling_Icon.png
+67,Xiao,Anemo,Polearm,Liyue,Medium Male,"February 03, 2021",1.3,https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Xiao_Icon.png
+68,Xingqiu,Hydro,Sword,Liyue,Medium Male,"September 28, 2020",1.0,https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Xingqiu_Icon.png
+69,Xinyan,Pyro,Claymore,Liyue,Medium Female,"December 01, 2020",1.1,https://static.wikia.nocookie.net/gensin-impact/images/2/24/Xinyan_Icon.png
+70,Yae Miko,Electro,Catalyst,Inazuma,Tall Female,"February 16, 2022",2.5,https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Yae_Miko_Icon.png
+71,Yanfei,Pyro,Catalyst,Liyue,Medium Female,"April 28, 2021",1.5,https://static.wikia.nocookie.net/gensin-impact/images/5/54/Yanfei_Icon.png
+72,Yaoyao,Dendro,Polearm,Liyue,Short Female,"January 18, 2023",3.4,https://static.wikia.nocookie.net/gensin-impact/images/8/83/Yaoyao_Icon.png
+73,Yelan,Hydro,Bow,Liyue,Tall Female,"May 31, 2022",2.7,https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Yelan_Icon.png
+74,Yoimiya,Pyro,Bow,Inazuma,Medium Female,"August 10, 2021",2.0,https://static.wikia.nocookie.net/gensin-impact/images/8/88/Yoimiya_Icon.png
+75,Yun Jin,Geo,Polearm,Liyue,Medium Female,"January 05, 2022",2.4,https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Yun_Jin_Icon.png
+76,Zhongli,Geo,Polearm,Liyue,Tall Male,"December 01, 2020",1.1,https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Zhongli_Icon.png
+77,Chiori,Geo,Others,Inazuma,Others,Others,Others,https://static.wikia.nocookie.net/gensin-impact/images/8/88/Chiori_Icon.png
+78,Dainsleif,Others,Others,Khaenri'ah,Others,Others,Others,https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Dainsleif_Icon.png
+79,Gaming,Pyro,Claymore,Liyue,Others,Others,Others,https://static.wikia.nocookie.net/gensin-impact/images/7/77/Gaming_Icon.png
+80,Xianyun,Anemo,Catalyst,Liyue,Others,Others,Others,https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Xianyun_Icon.png

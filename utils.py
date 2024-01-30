@@ -4,10 +4,10 @@ import json
 
 from bs4 import BeautifulSoup
 
-with open("./data/colormap.json", "r") as f:
+with open("./data/input/colormap.json", "r") as f:
     COLORMAP = json.load(f)
 
-with open("./data/addmap.json", "r") as f:
+with open("./data/input/addmap.json", "r") as f:
     ADDMAP = json.load(f)
 
 
@@ -83,9 +83,15 @@ def get_node_options(char, df_chars, size=250, selected_characters=None):
         return node_options
     else:
         return {
-            "size": 250,
-            "shape": "circularImage",
-            "image": ADDMAP.get(char, f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}"),
+            "size":
+            250,
+            "shape":
+            "circularImage",
+            "image":
+            ADDMAP.get(
+                char,
+                f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}"
+            ),
         }
 
 
@@ -94,21 +100,28 @@ def get_node_options_dish(char, df_chars, size=250):
     if len(entries) > 0:
         entry = entries.iloc[0]
 
-        node_options = {"size": 250, "shape": "circularImage", "image": entry["image"]}
+        node_options = {
+            "size": 250,
+            "shape": "circularImage",
+            "image": entry["image"]
+        }
 
         return node_options
     else:
         return {
-            "size": 250,
-            "shape": "circularImage",
-            "image": f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}",
+            "size":
+            250,
+            "shape":
+            "circularImage",
+            "image":
+            f"https://ui-avatars.com/api/?rounded=true&bold=true&size=512&format=png&name={char}",
         }
 
 
 def remove_duplicates(df):
-    df["Combination"] = df[["Source", "Target"]].apply(
-        lambda x: "-".join(sorted(x.tolist())), axis=1
-    )
+    df["Combination"] = df[["Source", "Target"
+                            ]].apply(lambda x: "-".join(sorted(x.tolist())),
+                                     axis=1)
     df = df.drop_duplicates(subset="Combination")
     df = df.drop(columns=["Combination"])
     df = df.reset_index(drop=True)
